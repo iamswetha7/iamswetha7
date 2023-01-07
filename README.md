@@ -1,4 +1,4 @@
-I'm **[Swetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)** ; preferred to be called as **Swetha**. 
+I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)** ; but I prefer to go by **Swetha**. 
 
 I was born in Bhimavaram, Andhra Pradesh, and completed my BTech in Information Technology at Shri Vishnu Engineering College for Women.
 I completed my Masters in Cloud Computing in Ireland and have 14 years of experience in the IT industry.
