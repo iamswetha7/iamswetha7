@@ -4,7 +4,7 @@ I was born in Bhimavaram, Andhra Pradesh, and completed my BTech in Information 
 I completed my Masters in Cloud Computing in Ireland and have 14 years of experience in the IT industry.
 I am enthusiastic about learning and am currently pursuing my master's degree in MSc in CyberSecurity at the University of the West of Scotland (UWS) in Scotland, UK.
 
-- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/swethamudunuri/)** | 
+- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/swethamudunuri/)** 
 
 # My 2022 Journey
 
