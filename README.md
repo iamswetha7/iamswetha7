@@ -11,7 +11,7 @@ I am enthusiastic about learning and am currently pursuing my master's degree in
 -[My 2022 Story ][https://www.linkedin.com/posts/swethamudunuri_journey-farewell-student-activity-7014979705866964994-BAVU] -My 2022 Story
 
 
-[![Watch the video](CIA-triad.png)](https://blog.ctotalk.in/building-highly-accurate-fraud-detection-system-1a39b1f7014e)
+[![Watch the video](https://ibb.co/q5Q2Chn)](https://blog.ctotalk.in/building-highly-accurate-fraud-detection-system-1a39b1f7014e)
 
 
 ## Connect with me  
