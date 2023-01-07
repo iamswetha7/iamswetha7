@@ -47,11 +47,11 @@ I am enthusiastic about learning and am currently pursuing my master's degree in
 <a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/youtube-cloudnloud-blue?style=flat-square&logo=youtube"></a>
 
 
-# Security
+# Linux CTF
 
 - [𝐃𝐚𝐲 𝟒 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/feed/update/urn:li:activity:7017266138501795840/)
   
 
   
-# My Linkedin Security sharing
+# My Linkedin Security Learning
 
