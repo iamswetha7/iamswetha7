@@ -8,7 +8,7 @@ I am enthusiastic about learning and am currently pursuing my master's degree in
 
 # My 2022 Journey
 
-- [𝐌𝐲 𝟐𝟎𝟐𝟐 𝐒𝐭𝐨𝐫𝐲](https://www.linkedin.com/posts/swethamudunuri_journey-farewell-student-activity-7014979705866964994-BAVU) -My 2022 Story
+- [𝐌𝐲 𝟐𝟎𝟐𝟐 𝐒𝐭𝐨𝐫𝐲](https://www.linkedin.com/posts/swethamudunuri_journey-farewell-student-activity-7014979705866964994-BAVU) 
 
 
 ## Connect with me  
