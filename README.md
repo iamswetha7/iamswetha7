@@ -8,7 +8,8 @@ I am enthusiastic about learning and am currently pursuing my master's degree in
 
 # My 2022 Journey
 
--[My 2022 Story ][https://www.linkedin.com/posts/swethamudunuri_journey-farewell-student-activity-7014979705866964994-BAVU] -My 2022 Story
+- [𝐌𝐲 𝟐𝟎𝟐𝟐 𝐒𝐭𝐨𝐫𝐲]
+(https://www.linkedin.com/posts/swethamudunuri_journey-farewell-student-activity-7014979705866964994-BAVU) -My 2022 Story
 
 ## Connect with me  
 <a href="https://github.com/swethamudunuri07" target="_blank">
@@ -52,7 +53,7 @@ s
 
 # Terraform
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐏𝐎𝐂 𝐟𝐨𝐫 𝐄𝐂𝟐, 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐠𝐫𝐨𝐮𝐩 𝐜𝐫𝐞𝐚𝐭𝐢𝐨𝐧]
-https://www.linkedin.com/posts/swethamudunuri_connections-terraform-technology-activity-7011750739442028544-KNeJ?utm_source=share&utm_medium=member_desktop
+(https://www.linkedin.com/posts/swethamudunuri_connections-terraform-technology-activity-7011750739442028544-KNeJ/)
 
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐕𝐏𝐂 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/swethamudunuri_vpn-aws-terraform-activity-7014170956168339456-X4mw/)
 
