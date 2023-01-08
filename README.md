@@ -30,10 +30,10 @@ I am enthusiastic about learning and am currently pursuing my master's degree in
 
 <p align="left">
 <a href="https://cloudnloud.com/"><img alt="Website" src="https://img.shields.io/badge/Website-cloudnloud.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/swethamudunuri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vijayabalan-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/swethamudunuri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SwethaMudunuri-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/cloudnloud"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-cloudnloud-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/youtube-cloudnloud-blue?style=flat-square&logo=youtube"></a>
-
+s
 
 # Linux CTF
 
