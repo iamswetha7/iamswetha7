@@ -66,10 +66,9 @@ s
 - [𝐃𝐚𝐲 𝟒 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/feed/update/urn:li:activity:7017266138501795840/)
 - [𝐃𝐚𝐲 𝟓 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7017632000840720384-Pc5r/)
 
-#AWS
+# AWS
 
-- [𝐇𝐲𝐛𝐫𝐢𝐝 𝐯𝐬 𝐌𝐮𝐥𝐭𝐢-𝐂𝐥𝐨𝐮𝐝]
-(https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013258239484010496-sptc/)
+- [𝐇𝐲𝐛𝐫𝐢𝐝 𝐯𝐬 𝐌𝐮𝐥𝐭𝐢-𝐂𝐥𝐨𝐮𝐝](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013258239484010496-sptc/)
 
 - [𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐩𝐫𝐨𝐯𝐢𝐝𝐞𝐝 𝐛𝐲 𝐯𝐚𝐫𝐢𝐨𝐮𝐬 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐏𝐫𝐨𝐯𝐢𝐝𝐞𝐫𝐬](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013614292818083841-RPqe/)
 

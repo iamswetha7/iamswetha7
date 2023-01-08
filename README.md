@@ -44,25 +44,22 @@ s
 - [𝐁𝐫𝐞𝐚𝐤 𝐢𝐧𝐭𝐨 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐰𝐢𝐭𝐡 𝐍𝐎 𝐓𝐞𝐜𝐡 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐨𝐫 𝐂𝐞𝐫𝐭𝐬]
 (https://www.linkedin.com/posts/swethamudunuri_break-into-cyber-security-with-no-tech-experience-activity-7011792370497126400-8wyk/)
 
-#Cryptography
+# Cryptography
 
 - [𝐇𝐨𝐰 𝐝𝐨 𝐡𝐚𝐬𝐡 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐰𝐨𝐫𝐤]
 (https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7011041583328337920-TefN/)
 
-#Terraform
+# Terraform
 
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐕𝐏𝐂 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/swethamudunuri_vpn-aws-terraform-activity-7014170956168339456-X4mw/)
 
-- [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬]
-(https://www.linkedin.com/posts/swethamudunuri_aws-terraform-cloud-activity-7015783436657295360-ka1d/)
+- [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬](https://www.linkedin.com/posts/swethamudunuri_aws-terraform-cloud-activity-7015783436657295360-ka1d/)
 
 
 # Linux CTF
 - [𝐃𝐚𝐲 𝟏 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-linuxchallenge-activity-7016114835184570368-AtV-/)
-- [𝐃𝐚𝐲 𝟐 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞]
-(https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7016506893267312640-RQup/)
-- [𝐃𝐚𝐲 𝟑 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞]
-(https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7016897087543869440-Kl_o/)
+- [𝐃𝐚𝐲 𝟐 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7016506893267312640-RQup/)
+- [𝐃𝐚𝐲 𝟑 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7016897087543869440-Kl_o/)
 - [𝐃𝐚𝐲 𝟒 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/feed/update/urn:li:activity:7017266138501795840/)
 - [𝐃𝐚𝐲 𝟓 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7017632000840720384-Pc5r/)
 
