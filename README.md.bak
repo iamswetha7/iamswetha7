@@ -34,12 +34,6 @@ I am enthusiastic about learning and am currently pursuing my master's degree in
 <a href="https://twitter.com/cloudnloud"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-cloudnloud-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/youtube-cloudnloud-blue?style=flat-square&logo=youtube"></a>
 s
-
-# Linux CTF
-
-- [𝐃𝐚𝐲 𝟒 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/feed/update/urn:li:activity:7017266138501795840/)
-  
-
   
 # My Linkedin Journey
 
@@ -47,5 +41,35 @@ s
 
 - [𝐋𝐢𝐧𝐤𝐞𝐝 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐤𝐢𝐥𝐥 𝐁𝐚𝐝𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_linkedinskillassessment-activity-6921476711381417984-gn8w/)
 - [𝐅𝐞𝐚𝐫 𝐨𝐟 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞](https://www.linkedin.com/posts/swethamudunuri_connections-cybersecurity-community-activity-7008866971433787393-NWA9/)
+- [𝐁𝐫𝐞𝐚𝐤 𝐢𝐧𝐭𝐨 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐰𝐢𝐭𝐡 𝐍𝐎 𝐓𝐞𝐜𝐡 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐨𝐫 𝐂𝐞𝐫𝐭𝐬]
+(https://www.linkedin.com/posts/swethamudunuri_break-into-cyber-security-with-no-tech-experience-activity-7011792370497126400-8wyk/)
 
+#Cryptography
+
+- [𝐇𝐨𝐰 𝐝𝐨 𝐡𝐚𝐬𝐡 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐰𝐨𝐫𝐤]
+(https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7011041583328337920-TefN/)
+
+#Terraform
+
+- [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐕𝐏𝐂 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/swethamudunuri_vpn-aws-terraform-activity-7014170956168339456-X4mw/)
+
+- [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬]
+(https://www.linkedin.com/posts/swethamudunuri_aws-terraform-cloud-activity-7015783436657295360-ka1d/)
+
+
+# Linux CTF
+- [𝐃𝐚𝐲 𝟏 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-linuxchallenge-activity-7016114835184570368-AtV-/)
+- [𝐃𝐚𝐲 𝟐 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞]
+(https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7016506893267312640-RQup/)
+- [𝐃𝐚𝐲 𝟑 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞]
+(https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7016897087543869440-Kl_o/)
+- [𝐃𝐚𝐲 𝟒 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/feed/update/urn:li:activity:7017266138501795840/)
+- [𝐃𝐚𝐲 𝟓 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7017632000840720384-Pc5r/)
+
+#AWS
+
+- [𝐇𝐲𝐛𝐫𝐢𝐝 𝐯𝐬 𝐌𝐮𝐥𝐭𝐢-𝐂𝐥𝐨𝐮𝐝]
+(https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013258239484010496-sptc/)
+
+- [𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐩𝐫𝐨𝐯𝐢𝐝𝐞𝐝 𝐛𝐲 𝐯𝐚𝐫𝐢𝐨𝐮𝐬 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐏𝐫𝐨𝐯𝐢𝐝𝐞𝐫𝐬](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013614292818083841-RPqe/)
 
