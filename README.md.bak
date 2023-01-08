@@ -41,8 +41,8 @@ s
 
 - [𝐋𝐢𝐧𝐤𝐞𝐝 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐤𝐢𝐥𝐥 𝐁𝐚𝐝𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_linkedinskillassessment-activity-6921476711381417984-gn8w/)
 - [𝐅𝐞𝐚𝐫 𝐨𝐟 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞](https://www.linkedin.com/posts/swethamudunuri_connections-cybersecurity-community-activity-7008866971433787393-NWA9/)
-- [𝐁𝐫𝐞𝐚𝐤 𝐢𝐧𝐭𝐨 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐰𝐢𝐭𝐡 𝐍𝐎 𝐓𝐞𝐜𝐡 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐨𝐫 𝐂𝐞𝐫𝐭𝐬]
-(https://www.linkedin.com/posts/swethamudunuri_break-into-cyber-security-with-no-tech-experience-activity-7011792370497126400-8wyk/)
+- [𝐁𝐫𝐞𝐚𝐤 𝐢𝐧𝐭𝐨 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐰𝐢𝐭𝐡 𝐍𝐎 𝐓𝐞𝐜𝐡 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐨𝐫 𝐂𝐞𝐫𝐭𝐬](https://www.linkedin.com/posts/swethamudunuri_break-into-cyber-security-with-no-tech-experience-activity-7011792370497126400-8wyk/)
+
 
 # Cryptography
 

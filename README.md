@@ -46,8 +46,7 @@ s
 
 # Cryptography
 
-- [𝐇𝐨𝐰 𝐝𝐨 𝐡𝐚𝐬𝐡 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐰𝐨𝐫𝐤]
-(https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7011041583328337920-TefN/)
+- [𝐇𝐨𝐰 𝐝𝐨 𝐡𝐚𝐬𝐡 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐰𝐨𝐫𝐤](https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7011041583328337920-TefN/)
 
 # Terraform
 
