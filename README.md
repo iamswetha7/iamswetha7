@@ -63,9 +63,19 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 🎯[𝐇𝐲𝐛𝐫𝐢𝐝 𝐯𝐬 𝐌𝐮𝐥𝐭𝐢-𝐂𝐥𝐨𝐮𝐝](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013258239484010496-sptc/)  
 🎯[𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐩𝐫𝐨𝐯𝐢𝐝𝐞𝐝 𝐛𝐲 𝐯𝐚𝐫𝐢𝐨𝐮𝐬 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐏𝐫𝐨𝐯𝐢𝐝𝐞𝐫𝐬](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013614292818083841-RPqe/)
   
-  # Meetup
+ # Meetup
   
 🎯[𝐆𝐥𝐚𝐬𝐠𝐨𝐰 𝐀𝐳𝐮𝐫𝐞 𝐔𝐬𝐞𝐫 𝐆𝐫𝐨𝐮𝐩 𝐌𝐞𝐞𝐭𝐮𝐩](http://bitly.ws/Bvqj)
+
+🎯[𝐖𝐨𝐦𝐞𝐧 𝐢𝐧 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐋𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩 𝐖𝐞𝐛𝐢𝐧𝐚𝐫](http://bitly.ws/BuZx)
+
+🎯 [𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐲](http://bitly.ws/Bvnv)
+
+🎯[𝐇𝐚𝐩𝐩𝐲 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐖𝐨𝐦𝐞𝐧'𝐬 𝐝𝐚𝐲](http://bitly.ws/Bvo3)
+
+🎯[𝐓𝐡𝐞 𝐰𝐚𝐢𝐭 𝐢𝐬 𝐨𝐯𝐞𝐫! 𝐟𝐨𝐫 𝐚 𝐯𝐢𝐫𝐭𝐮𝐚𝐥 𝐦𝐞𝐞𝐭𝐢𝐧𝐠 𝐨𝐧 𝐖𝐡𝐲 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐋𝐞𝐚𝐝𝐞𝐫𝐬 𝐒𝐡𝐨𝐮𝐥𝐝 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲?](http://bitly.ws/Bvo6)
+
+🎯[𝐉𝐮𝐬𝐭 𝐎𝐧𝐞 𝐦𝐨𝐫𝐞 𝐝𝐚𝐲 𝐭𝐢𝐥𝐥 𝐭𝐡𝐞 𝐥𝐢𝐯𝐞 𝐦𝐞𝐞𝐭𝐮𝐩 𝐨𝐧 𝐖𝐡𝐲 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐋𝐞𝐚𝐝𝐞𝐫𝐬 𝐒𝐡𝐨𝐮𝐥𝐝 𝐊𝐧𝐨𝐰 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲?](http://bitly.ws/Bvo7)
 
   # Cloudnloud Meetings
 
@@ -74,6 +84,8 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 👑 [𝐖𝐞𝐞𝐤𝐞𝐧𝐝 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐫𝐚𝐢𝐧𝐬𝐭𝐨𝐫𝐦𝐢𝐧𝐠 𝐖𝐞𝐛𝐢𝐧𝐚𝐫](https://www.linkedin.com/feed/update/urn:li:activity:7040336212447944704/)
 
 👑 [𝐓𝐞𝐚𝐦𝐰𝐨𝐫𝐤](https://www.linkedin.com/feed/update/urn:li:activity:7040344172146409472/)
+
+
 
 
 
