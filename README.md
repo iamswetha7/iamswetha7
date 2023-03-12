@@ -1,21 +1,20 @@
-I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)** ; but I prefer to go by **Swetha**. 
+I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha Mudunuri😍**. 
 
 I was born in Bhimavaram, Andhra Pradesh, and completed my BTech in Information Technology at Shri Vishnu Engineering College for Women.
 I completed my Masters in 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 in 𝐈𝐫𝐞𝐥𝐚𝐧𝐝 and have 𝟏𝟒 𝐲𝐞𝐚𝐫𝐬 of experience in the IT industry.
 I am enthusiastic about learning and am currently pursuing my master's degree in MSc in CyberSecurity at the University of the West of Scotland (UWS) in Scotland, UK.
 
-## 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬 ✍
+## Technical Contributions ✍
 ## ROLE: Core Team Member -Azure Security Community Leader
 
-Learning new technologies excites me because it makes me happy, excited, and confident. I'm happy to be a member of the 𝐂𝐥𝐨𝐮𝐝𝐋𝐨𝐮𝐝 𝐂𝐨𝐫𝐞 𝐓𝐞𝐚𝐦, which constantly aspires to master the latest technologies and aids others in developing their careers.
+Learning new technologies excites me because it makes me happy, excited, and confident😎. I'm happy to be a member of the 𝐂𝐥𝐨𝐮𝐝𝐋𝐨𝐮𝐝 𝐂𝐨𝐫𝐞 𝐓𝐞𝐚𝐦, which constantly aspires to master the latest technologies and aids others in developing their careers ❤️.
 
-The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open source tech community, volunteer-run event. CloudnLoud is started with the aim to help cancer children who are not able to afford the treatment cost. We are doing this for good cause to save millions of Cancer children's life.
+The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open source tech community, volunteer-run event. CloudnLoud is started with the aim to help cancer children 👦 who are not able to afford the treatment cost 💰. We are doing this for good  cause to save millions of Cancer children's life 👧.
 
 At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings, and technical discussions on various IT technologies & open-source tools. The goal of our Tech Community is to bring together companies, leaders, and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project.
 
 
 ## 🤝🏻 Let's Keep in Touch
-
 
 <a href="https://github.com/swethamudunuri07" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
@@ -26,10 +25,8 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 <a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/youtube-cloudnloud-blue?style=flat-square&logo=youtube"></a>
 
   
-# My Linkedin Journey
+# 𝐌𝐲 𝐋𝐢𝐧𝐤𝐞𝐝𝐢𝐧 𝐉𝐨𝐮𝐫𝐧𝐞𝐲
   
-# My 2022 Journey
-
 😍 [𝐌𝐲 𝟐𝟎𝟐𝟐 𝐒𝐭𝐨𝐫𝐲](https://www.linkedin.com/posts/swethamudunuri_journey-farewell-student-activity-7014979705866964994-BAVU)   
 
 # Security
@@ -37,7 +34,6 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 - [𝐋𝐢𝐧𝐤𝐞𝐝 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐤𝐢𝐥𝐥 𝐁𝐚𝐝𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_linkedinskillassessment-activity-6921476711381417984-gn8w/)
 - [𝐅𝐞𝐚𝐫 𝐨𝐟 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞](https://www.linkedin.com/posts/swethamudunuri_connections-cybersecurity-community-activity-7008866971433787393-NWA9/)
 - [𝐁𝐫𝐞𝐚𝐤 𝐢𝐧𝐭𝐨 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐰𝐢𝐭𝐡 𝐍𝐎 𝐓𝐞𝐜𝐡 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐨𝐫 𝐂𝐞𝐫𝐭𝐬](https://www.linkedin.com/posts/swethamudunuri_break-into-cyber-security-with-no-tech-experience-activity-7011792370497126400-8wyk/)
-
 
 # Cryptography
 
