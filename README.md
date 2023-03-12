@@ -4,35 +4,33 @@ I was born in Bhimavaram, Andhra Pradesh, and completed my BTech in Information 
 I completed my Masters in 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 in 𝐈𝐫𝐞𝐥𝐚𝐧𝐝 and have 𝟏𝟒 𝐲𝐞𝐚𝐫𝐬 of experience in the IT industry.
 I am enthusiastic about learning and am currently pursuing my master's degree in MSc in CyberSecurity at the University of the West of Scotland (UWS) in Scotland, UK.
 
-- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/swethamudunuri/)** 
+## 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬 ✍
+## ROLE: Core Team Member -Azure Security Community Leader
 
-# My 2022 Journey
+Learning new technologies excites me because it makes me happy, excited, and confident. I'm happy to be a member of the 𝐂𝐥𝐨𝐮𝐝𝐋𝐨𝐮𝐝 𝐂𝐨𝐫𝐞 𝐓𝐞𝐚𝐦, which constantly aspires to master the latest technologies and aids others in developing their careers.
 
-- [𝐌𝐲 𝟐𝟎𝟐𝟐 𝐒𝐭𝐨𝐫𝐲](https://www.linkedin.com/posts/swethamudunuri_journey-farewell-student-activity-7014979705866964994-BAVU) 
+The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open source tech community, volunteer-run event. CloudnLoud is started with the aim to help cancer children who are not able to afford the treatment cost. We are doing this for good cause to save millions of Cancer children's life.
 
+At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings, and technical discussions on various IT technologies & open-source tools. The goal of our Tech Community is to bring together companies, leaders, and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project.
 
-## Connect with me  
-<a href="https://github.com/swethamudunuri07" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-<a href="https://www.linkedin.com/in/swethamudunuri/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
----
 
 ## 🤝🏻 Let's Keep in Touch
 
+
+<a href="https://github.com/swethamudunuri07" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
 <p align="left">
 <a href="https://cloudnloud.com/"><img alt="Website" src="https://img.shields.io/badge/Website-cloudnloud.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/swethamudunuri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SwethaMudunuri-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/cloudnloud"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-cloudnloud-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/youtube-cloudnloud-blue?style=flat-square&logo=youtube"></a>
-s
+
   
 # My Linkedin Journey
+  
+# My 2022 Journey
+
+😍 [𝐌𝐲 𝟐𝟎𝟐𝟐 𝐒𝐭𝐨𝐫𝐲](https://www.linkedin.com/posts/swethamudunuri_journey-farewell-student-activity-7014979705866964994-BAVU)   
 
 # Security
 
@@ -66,7 +64,24 @@ s
 
 # AWS
 
-- [𝐇𝐲𝐛𝐫𝐢𝐝 𝐯𝐬 𝐌𝐮𝐥𝐭𝐢-𝐂𝐥𝐨𝐮𝐝](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013258239484010496-sptc/)
+🎯[𝐇𝐲𝐛𝐫𝐢𝐝 𝐯𝐬 𝐌𝐮𝐥𝐭𝐢-𝐂𝐥𝐨𝐮𝐝](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013258239484010496-sptc/)  
+🎯[𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐩𝐫𝐨𝐯𝐢𝐝𝐞𝐝 𝐛𝐲 𝐯𝐚𝐫𝐢𝐨𝐮𝐬 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐏𝐫𝐨𝐯𝐢𝐝𝐞𝐫𝐬](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013614292818083841-RPqe/)
+  
+  # Meetup
+  
+🎯[𝐆𝐥𝐚𝐬𝐠𝐨𝐰 𝐀𝐳𝐮𝐫𝐞 𝐔𝐬𝐞𝐫 𝐆𝐫𝐨𝐮𝐩 𝐌𝐞𝐞𝐭𝐮𝐩](http://bitly.ws/Bvqj)
 
-- [𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐩𝐫𝐨𝐯𝐢𝐝𝐞𝐝 𝐛𝐲 𝐯𝐚𝐫𝐢𝐨𝐮𝐬 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐏𝐫𝐨𝐯𝐢𝐝𝐞𝐫𝐬](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013614292818083841-RPqe/)
+  # Cloudnloud Meetings
+
+👑 [𝐒𝐮𝐧𝐝𝐚𝐲 𝐌𝐨𝐫𝐧𝐢𝐧𝐠 𝐁𝐫𝐚𝐢𝐧𝐬𝐭𝐨𝐫𝐦𝐢𝐧𝐠 𝐌𝐞𝐞𝐭𝐮𝐩](https://www.linkedin.com/feed/update/urn:li:activity:7040603881713627136/)
+
+👑 [𝐖𝐞𝐞𝐤𝐞𝐧𝐝 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐫𝐚𝐢𝐧𝐬𝐭𝐨𝐫𝐦𝐢𝐧𝐠 𝐖𝐞𝐛𝐢𝐧𝐚𝐫](https://www.linkedin.com/feed/update/urn:li:activity:7040336212447944704/)
+
+👑 [𝐓𝐞𝐚𝐦𝐰𝐨𝐫𝐤](https://www.linkedin.com/feed/update/urn:li:activity:7040344172146409472/)
+
+
+
+
+
+
 
