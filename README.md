@@ -34,6 +34,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 - [𝐋𝐢𝐧𝐤𝐞𝐝 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐤𝐢𝐥𝐥 𝐁𝐚𝐝𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_linkedinskillassessment-activity-6921476711381417984-gn8w/)
 - [𝐅𝐞𝐚𝐫 𝐨𝐟 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞](https://www.linkedin.com/posts/swethamudunuri_connections-cybersecurity-community-activity-7008866971433787393-NWA9/)
 - [𝐁𝐫𝐞𝐚𝐤 𝐢𝐧𝐭𝐨 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐰𝐢𝐭𝐡 𝐍𝐎 𝐓𝐞𝐜𝐡 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐨𝐫 𝐂𝐞𝐫𝐭𝐬](https://www.linkedin.com/posts/swethamudunuri_break-into-cyber-security-with-no-tech-experience-activity-7011792370497126400-8wyk/)
+  [𝐃𝐚𝐲 𝟑𝟓 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 🎯 𝐇𝐨𝐰 𝐭𝐨 𝐜𝐡𝐨𝐨𝐬𝐞 𝐚 𝐋𝐨𝐚𝐝-𝐁𝐚𝐥𝐚𝐧𝐜𝐢𝐧𝐠 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧?] (http://bitly.ws/BvpM)
 
 # Cryptography
 
@@ -76,6 +77,22 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 🎯[𝐓𝐡𝐞 𝐰𝐚𝐢𝐭 𝐢𝐬 𝐨𝐯𝐞𝐫! 𝐟𝐨𝐫 𝐚 𝐯𝐢𝐫𝐭𝐮𝐚𝐥 𝐦𝐞𝐞𝐭𝐢𝐧𝐠 𝐨𝐧 𝐖𝐡𝐲 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐋𝐞𝐚𝐝𝐞𝐫𝐬 𝐒𝐡𝐨𝐮𝐥𝐝 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲?](http://bitly.ws/Bvo6)
 
 🎯[𝐉𝐮𝐬𝐭 𝐎𝐧𝐞 𝐦𝐨𝐫𝐞 𝐝𝐚𝐲 𝐭𝐢𝐥𝐥 𝐭𝐡𝐞 𝐥𝐢𝐯𝐞 𝐦𝐞𝐞𝐭𝐮𝐩 𝐨𝐧 𝐖𝐡𝐲 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐋𝐞𝐚𝐝𝐞𝐫𝐬 𝐒𝐡𝐨𝐮𝐥𝐝 𝐊𝐧𝐨𝐰 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲?](http://bitly.ws/Bvo7)
+ 
+🎯[About Cyberfit Women Meetup](http://bitly.ws/BvoL)
+
+🎯[𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐚𝐭 𝐃𝐞𝐥𝐨𝐢𝐭𝐭𝐞 𝐄𝐯𝐞𝐧𝐭](http://bitly.ws/BvoT)
+
+🎯[𝐌𝐞𝐞𝐭𝐮𝐩](http://bitly.ws/Bvp3)
+
+🎯[𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐥𝐢𝐚𝐧𝐜𝐞 𝐟𝐨𝐫 𝐏𝐫𝐨𝐣𝐞𝐜𝐭, 𝐏𝐫𝐨𝐠𝐫𝐚𝐦, 𝐚𝐧𝐝 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐲 𝐋𝐞𝐚𝐝𝐞𝐫𝐬? Book](http://bitly.ws/Bvop)
+
+🎯[Join us for an upcoming live meetup on 𝐖𝐡𝐲 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐋𝐞𝐚𝐝𝐞𝐫𝐬 𝐒𝐡𝐨𝐮𝐥𝐝 𝐊𝐧𝐨𝐰 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲?](http://bitly.ws/Bvon)
+
+🎯[About the Virtual Meetup](http://bitly.ws/Bvov)
+
+🎯[𝐃𝐚𝐲 𝟑𝟓 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 CyberScotland Week 𝐖𝐞𝐛𝐢𝐧𝐚𝐫](http://bitly.ws/Bvp9)
+
+🎯[𝐃𝐚𝐲 𝟑𝟒 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠e 𝐆𝐥𝐚𝐬𝐠𝐨𝐰 𝐀𝐳𝐮𝐫𝐞 𝐔𝐬𝐞𝐫 𝐆𝐫𝐨𝐮𝐩 𝐌𝐞𝐞𝐭𝐮𝐩](http://bitly.ws/Bvqj)
 
   # Cloudnloud Meetings
 
@@ -84,6 +101,33 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 👑 [𝐖𝐞𝐞𝐤𝐞𝐧𝐝 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐫𝐚𝐢𝐧𝐬𝐭𝐨𝐫𝐦𝐢𝐧𝐠 𝐖𝐞𝐛𝐢𝐧𝐚𝐫](https://www.linkedin.com/feed/update/urn:li:activity:7040336212447944704/)
 
 👑 [𝐓𝐞𝐚𝐦𝐰𝐨𝐫𝐤](https://www.linkedin.com/feed/update/urn:li:activity:7040344172146409472/)
+  
+  
+# Job Openings
+[Job openings for Women](http://bitly.ws/BvoA)
+
+# Important Documents
+  
+[𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐃𝐞𝐟𝐞𝐧𝐝𝐞𝐫 𝐀𝐠𝐚𝐢𝐧𝐬𝐭 𝐓𝐡𝐫𝐞𝐚𝐭𝐬 𝐖𝐞𝐛𝐢𝐧𝐚𝐫](http://bitly.ws/BvoE)
+
+[Microsoft Security knowledge](http://bitly.ws/Bvoe)
+
+[𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗶𝗻𝗴 𝗣𝗵𝗶𝘀𝗵𝗶𝗻𝗴-𝗥𝗲𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗠𝗙𝗔](http://bitly.ws/Bvpn)
+  
+[Benefits of Load Balancer is explained in the document](http://bitly.ws/BvpF)
+
+[Azure Devops guide with practical’s](http://bitly.ws/BvpY)
+
+[What is Zero Trust Architecture - by Sentinel One](http://bitly.ws/Bvq9)
+  
+# Important Repositories
+
+[GitHub repository with a list of Blue-teaming tools explained with usage](http://bitly.ws/Bvpv)
+  
+# Interview Questions
+
+[HR and Managerial interview question and answers](http://bitly.ws/Bvpe)  
+  
 
 
 
