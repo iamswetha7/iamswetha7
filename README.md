@@ -132,6 +132,11 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 [HR and Managerial interview question and answers](http://bitly.ws/Bvpe)  
   
+# Azure
+  
+  [𝐑𝐨𝐚𝐝𝐦𝐚𝐩 𝐭𝐨 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/feed/update/urn:li:activity:7044396847657832448)
+  
+
 
 
 
