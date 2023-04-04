@@ -38,7 +38,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 - [𝐅𝐞𝐚𝐫 𝐨𝐟 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞](https://www.linkedin.com/posts/swethamudunuri_connections-cybersecurity-community-activity-7008866971433787393-NWA9/)
 - [𝐁𝐫𝐞𝐚𝐤 𝐢𝐧𝐭𝐨 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐰𝐢𝐭𝐡 𝐍𝐎 𝐓𝐞𝐜𝐡 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐨𝐫 𝐂𝐞𝐫𝐭𝐬](https://www.linkedin.com/posts/swethamudunuri_break-into-cyber-security-with-no-tech-experience-activity-7011792370497126400-8wyk/)
   
- 🎯 [𝐃𝐚𝐲 𝟑𝟓 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞-𝐇𝐨𝐰 𝐭𝐨 𝐜𝐡𝐨𝐨𝐬𝐞 𝐚 𝐋𝐨𝐚𝐝-𝐁𝐚𝐥𝐚𝐧𝐜𝐢𝐧𝐠 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧?](http://bitly.ws/BvpM)
+ - [𝐃𝐚𝐲 𝟑𝟓 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞-𝐇𝐨𝐰 𝐭𝐨 𝐜𝐡𝐨𝐨𝐬𝐞 𝐚 𝐋𝐨𝐚𝐝-𝐁𝐚𝐥𝐚𝐧𝐜𝐢𝐧𝐠 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧?](http://bitly.ws/BvpM)
 
 # Cryptography
 
@@ -107,9 +107,6 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 👑 [𝐓𝐞𝐚𝐦𝐰𝐨𝐫𝐤](https://www.linkedin.com/feed/update/urn:li:activity:7040344172146409472/)
   
   
-# Job Openings
-[Job openings for Women](http://bitly.ws/BvoA)
-
 # Important Documents
   
 [𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐃𝐞𝐟𝐞𝐧𝐝𝐞𝐫 𝐀𝐠𝐚𝐢𝐧𝐬𝐭 𝐓𝐡𝐫𝐞𝐚𝐭𝐬 𝐖𝐞𝐛𝐢𝐧𝐚𝐫](http://bitly.ws/BvoE)
