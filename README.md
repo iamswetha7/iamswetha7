@@ -2,7 +2,7 @@ I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but 
 
 I was born in Bhimavaram, Andhra Pradesh, and completed my BTech in Information Technology at Shri Vishnu Engineering College for Women.
 I completed my Masters in 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 in 𝐈𝐫𝐞𝐥𝐚𝐧𝐝 and have 𝟏𝟒 𝐲𝐞𝐚𝐫𝐬 of experience in the IT industry.
-I am enthusiastic about learning and am currently pursuing my master's degree in MSc in **CyberSecurity** at the **University of the West of Scotland (UWS)** in Scotland, **UK**.
+I am enthusiastic about learning and I completed my master's degree in MSc in **CyberSecurity** at the **University of the West of Scotland (UWS)** in Scotland, **UK**.
 
 ## Technical Contributions ✍
 ## ROLE: Core Team Member -Azure Security Community Leader
