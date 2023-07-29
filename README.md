@@ -1,5 +1,3 @@
-<img src=5k Followers(1).jpg /></a>
-
 I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha Mudunuri😍**. 
 
 I was born in Bhimavaram, Andhra Pradesh, and completed my BTech in Information Technology at Shri Vishnu Engineering College for Women.
