@@ -9,9 +9,9 @@ I am enthusiastic about learning and I completed my master's degree in MSc in **
 
 Learning new technologies excites me because it makes me happy, excited, and confident😎. I'm happy to be a member of the 𝐂𝐥𝐨𝐮𝐝𝐋𝐨𝐮𝐝 𝐂𝐨𝐫𝐞 𝐓𝐞𝐚𝐦, which constantly aspires to master the latest technologies and aids others in developing their careers ❤️.
 
-The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open source tech community, volunteer-run event. CloudnLoud is started with the aim to help cancer children 👦 who are not able to afford the treatment cost 💰. We are doing this for good  cause to save millions of Cancer children's life 👧.
+The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open source tech community, volunteer-run event. CloudnLoud is started with the aim to help cancer children 👦 who are not able to afford the treatment cost 💰. We are doing this for a good cause to save millions of Cancer children's life 👧.
 
-At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings, and technical discussions on various IT technologies & open-source tools. The goal of our Tech Community is to bring together companies, leaders, and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project.
+At CloudnLoud Tech community, we are organizing free tech conferences, technical training, and technical discussions on various IT technologies & open-source tools. The goal of our Tech Community is to bring together companies, leaders, and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project.
 
 
 ## 🤝🏻 Let's Keep in Touch
