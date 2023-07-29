@@ -1,4 +1,3 @@
-![5k Followers (1)](https://github.com/swethamudunuri07/swethamudunuri07/assets/120837326/ac9b071c-54ea-4ce3-941d-583f6e49c95e)
 
 I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha Mudunuri😍**. 
 
