@@ -28,30 +28,30 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
   
 # My Linkedin Journey
   
-😍 [𝐌𝐲 𝟐𝟎𝟐𝟐 𝐒𝐭𝐨𝐫𝐲](https://www.linkedin.com/posts/swethamudunuri_journey-farewell-student-activity-7014979705866964994-BAVU)   
+😍 [My 2022 Story](https://www.linkedin.com/posts/swethamudunuri_journey-farewell-student-activity-7014979705866964994-BAVU)   
 
 # Book Review
-🏅[𝐆𝐫𝐚𝐭𝐢𝐭𝐮𝐝𝐞 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐲 𝐚𝐧𝐝 𝐚 𝐌𝐨𝐦𝐞𝐧𝐭 𝐨𝐟 𝐩𝐫𝐢𝐝𝐞](https://www.linkedin.com/feed/update/urn:li:activity:7042494455932678145/)
+🏅[Gratitude for the Opportunity and a Moment of pride](https://www.linkedin.com/feed/update/urn:li:activity:7042494455932678145/)
 
 # Security
 
-🎀 [𝐋𝐢𝐧𝐤𝐞𝐝 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐤𝐢𝐥𝐥 𝐁𝐚𝐝𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_linkedinskillassessment-activity-6921476711381417984-gn8w/)
+🎀 [Linkedin Cybersecurity Skill Badge](https://www.linkedin.com/posts/swethamudunuri_linkedinskillassessment-activity-6921476711381417984-gn8w/)
 
-🎀 [𝐅𝐞𝐚𝐫 𝐨𝐟 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞](https://www.linkedin.com/posts/swethamudunuri_connections-cybersecurity-community-activity-7008866971433787393-NWA9/)
+🎀 [Fear of Real-Time Experience](https://www.linkedin.com/posts/swethamudunuri_connections-cybersecurity-community-activity-7008866971433787393-NWA9/)
 
-🎀 [𝐁𝐫𝐞𝐚𝐤 𝐢𝐧𝐭𝐨 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐰𝐢𝐭𝐡 𝐍𝐎 𝐓𝐞𝐜𝐡 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐨𝐫 𝐂𝐞𝐫𝐭𝐬](https://www.linkedin.com/posts/swethamudunuri_break-into-cyber-security-with-no-tech-experience-activity-7011792370497126400-8wyk/) 
+🎀 [Break into Cyber Security with No Tech Experience or Certs](https://www.linkedin.com/posts/swethamudunuri_break-into-cyber-security-with-no-tech-experience-activity-7011792370497126400-8wyk/) 
 
-🎀 [𝐃𝐚𝐲 𝟑𝟓 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞-𝐇𝐨𝐰 𝐭𝐨 𝐜𝐡𝐨𝐨𝐬𝐞 𝐚 𝐋𝐨𝐚𝐝-𝐁𝐚𝐥𝐚𝐧𝐜𝐢𝐧𝐠 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧?](http://bitly.ws/BvpM)
+🎀 [Day 35 of the 100-day Challenge-How to choose a Load-Balancing solution for your application?](http://bitly.ws/BvpM)
 
 # Cryptography
 
-🎆 [𝐑𝐒𝐀 𝐄𝐧𝐜𝐫𝐲𝐩𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7010259804845662208-OqXA/)
+🎆 [RSA Encryption](https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7010259804845662208-OqXA/)
 
-🎆 [𝐃𝐞𝐦𝐨𝐧𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐡𝐨𝐰 𝐭𝐡𝐞 𝐑𝐒𝐀 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦 𝐰𝐨𝐫𝐤𝐬](https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7010644278527852544-epkJ/)
+🎆 [Demonstration of how the RSA algorithm works](https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7010644278527852544-epkJ/)
 
-🎆 [𝐇𝐨𝐰 𝐝𝐨 𝐡𝐚𝐬𝐡 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐰𝐨𝐫𝐤](https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7011041583328337920-TefN/)
+🎆 [How to hash algorithms work](https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7011041583328337920-TefN/)
 
-🎆 [𝐀𝐛𝐨𝐮𝐭 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐒𝐢𝐠𝐧𝐚𝐭𝐮𝐫𝐞𝐬](https://www.linkedin.com/posts/swethamudunuri_connections-security-technology-activity-7012047192567730176-qgvL/)
+🎆 [About Digital Signatures](https://www.linkedin.com/posts/swethamudunuri_connections-security-technology-activity-7012047192567730176-qgvL/)
 
 
 # Terraform
