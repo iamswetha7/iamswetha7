@@ -31,43 +31,40 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 😍 [𝐌𝐲 𝟐𝟎𝟐𝟐 𝐒𝐭𝐨𝐫𝐲](https://www.linkedin.com/posts/swethamudunuri_journey-farewell-student-activity-7014979705866964994-BAVU)   
 
 # Book Review
-[𝐆𝐫𝐚𝐭𝐢𝐭𝐮𝐝𝐞 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐲 𝐚𝐧𝐝 𝐚 𝐌𝐨𝐦𝐞𝐧𝐭 𝐨𝐟 𝐩𝐫𝐢𝐝𝐞](https://www.linkedin.com/feed/update/urn:li:activity:7042494455932678145/)
+🏅[𝐆𝐫𝐚𝐭𝐢𝐭𝐮𝐝𝐞 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐲 𝐚𝐧𝐝 𝐚 𝐌𝐨𝐦𝐞𝐧𝐭 𝐨𝐟 𝐩𝐫𝐢𝐝𝐞](https://www.linkedin.com/feed/update/urn:li:activity:7042494455932678145/)
 
 # Security
 
-- [𝐋𝐢𝐧𝐤𝐞𝐝 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐤𝐢𝐥𝐥 𝐁𝐚𝐝𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_linkedinskillassessment-activity-6921476711381417984-gn8w/)
-- [𝐅𝐞𝐚𝐫 𝐨𝐟 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞](https://www.linkedin.com/posts/swethamudunuri_connections-cybersecurity-community-activity-7008866971433787393-NWA9/)
-- [𝐁𝐫𝐞𝐚𝐤 𝐢𝐧𝐭𝐨 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐰𝐢𝐭𝐡 𝐍𝐎 𝐓𝐞𝐜𝐡 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐨𝐫 𝐂𝐞𝐫𝐭𝐬](https://www.linkedin.com/posts/swethamudunuri_break-into-cyber-security-with-no-tech-experience-activity-7011792370497126400-8wyk/)
-  
- - [𝐃𝐚𝐲 𝟑𝟓 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞-𝐇𝐨𝐰 𝐭𝐨 𝐜𝐡𝐨𝐨𝐬𝐞 𝐚 𝐋𝐨𝐚𝐝-𝐁𝐚𝐥𝐚𝐧𝐜𝐢𝐧𝐠 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧?](http://bitly.ws/BvpM)
+🎀 [𝐋𝐢𝐧𝐤𝐞𝐝 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐤𝐢𝐥𝐥 𝐁𝐚𝐝𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_linkedinskillassessment-activity-6921476711381417984-gn8w/)
+🎀 [𝐅𝐞𝐚𝐫 𝐨𝐟 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞](https://www.linkedin.com/posts/swethamudunuri_connections-cybersecurity-community-activity-7008866971433787393-NWA9/)
+🎀 [𝐁𝐫𝐞𝐚𝐤 𝐢𝐧𝐭𝐨 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐰𝐢𝐭𝐡 𝐍𝐎 𝐓𝐞𝐜𝐡 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐨𝐫 𝐂𝐞𝐫𝐭𝐬](https://www.linkedin.com/posts/swethamudunuri_break-into-cyber-security-with-no-tech-experience-activity-7011792370497126400-8wyk/)  
+🎀 [𝐃𝐚𝐲 𝟑𝟓 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞-𝐇𝐨𝐰 𝐭𝐨 𝐜𝐡𝐨𝐨𝐬𝐞 𝐚 𝐋𝐨𝐚𝐝-𝐁𝐚𝐥𝐚𝐧𝐜𝐢𝐧𝐠 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧?](http://bitly.ws/BvpM)
 
 # Cryptography
 
-- [𝐑𝐒𝐀 𝐄𝐧𝐜𝐫𝐲𝐩𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7010259804845662208-OqXA/)
-- [𝐃𝐞𝐦𝐨𝐧𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐡𝐨𝐰 𝐭𝐡𝐞 𝐑𝐒𝐀 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦 𝐰𝐨𝐫𝐤𝐬](https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7010644278527852544-epkJ/)
-- [𝐇𝐨𝐰 𝐝𝐨 𝐡𝐚𝐬𝐡 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐰𝐨𝐫𝐤](https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7011041583328337920-TefN/)
-- [𝐀𝐛𝐨𝐮𝐭 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐒𝐢𝐠𝐧𝐚𝐭𝐮𝐫𝐞𝐬](https://www.linkedin.com/posts/swethamudunuri_connections-security-technology-activity-7012047192567730176-qgvL/)
+🎆 [𝐑𝐒𝐀 𝐄𝐧𝐜𝐫𝐲𝐩𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7010259804845662208-OqXA/)
+🎆 [𝐃𝐞𝐦𝐨𝐧𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐡𝐨𝐰 𝐭𝐡𝐞 𝐑𝐒𝐀 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦 𝐰𝐨𝐫𝐤𝐬](https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7010644278527852544-epkJ/)
+🎆 [𝐇𝐨𝐰 𝐝𝐨 𝐡𝐚𝐬𝐡 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐰𝐨𝐫𝐤](https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7011041583328337920-TefN/)
+🎆 [𝐀𝐛𝐨𝐮𝐭 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐒𝐢𝐠𝐧𝐚𝐭𝐮𝐫𝐞𝐬](https://www.linkedin.com/posts/swethamudunuri_connections-security-technology-activity-7012047192567730176-qgvL/)
 
 
 # Terraform
-- [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐏𝐎𝐂 𝐟𝐨𝐫 𝐄𝐂𝟐, 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐠𝐫𝐨𝐮𝐩 𝐜𝐫𝐞𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/swethamudunuri_connections-terraform-technology-activity-7011750739442028544-KNeJ/)
-
-- [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐕𝐏𝐂 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/swethamudunuri_vpn-aws-terraform-activity-7014170956168339456-X4mw/)
-
-- [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬](https://www.linkedin.com/posts/swethamudunuri_aws-terraform-cloud-activity-7015783436657295360-ka1d/)
+🚀 [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐏𝐎𝐂 𝐟𝐨𝐫 𝐄𝐂𝟐, 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐠𝐫𝐨𝐮𝐩 𝐜𝐫𝐞𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/swethamudunuri_connections-terraform-technology-activity-7011750739442028544-KNeJ/)
+🚀 [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐕𝐏𝐂 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/swethamudunuri_vpn-aws-terraform-activity-7014170956168339456-X4mw/)
+🚀 [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬](https://www.linkedin.com/posts/swethamudunuri_aws-terraform-cloud-activity-7015783436657295360-ka1d/)
 
 
 # Linux CTF
-- [𝐃𝐚𝐲 𝟏 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-linuxchallenge-activity-7016114835184570368-AtV-/)
-- [𝐃𝐚𝐲 𝟐 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7016506893267312640-RQup/)
-- [𝐃𝐚𝐲 𝟑 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7016897087543869440-Kl_o/)
-- [𝐃𝐚𝐲 𝟒 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/feed/update/urn:li:activity:7017266138501795840/)
-- [𝐃𝐚𝐲 𝟓 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7017632000840720384-Pc5r/)
+👩🏾‍💻 [𝐃𝐚𝐲 𝟏 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-linuxchallenge-activity-7016114835184570368-AtV-/)
+👩🏾‍💻 [𝐃𝐚𝐲 𝟐 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7016506893267312640-RQup/)
+👩🏾‍💻 [𝐃𝐚𝐲 𝟑 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7016897087543869440-Kl_o/)
+👩🏾‍💻 [𝐃𝐚𝐲 𝟒 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/feed/update/urn:li:activity:7017266138501795840/)
+👩🏾‍💻 [𝐃𝐚𝐲 𝟓 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7017632000840720384-Pc5r/)
 
 # AWS
 
-🎯[𝐇𝐲𝐛𝐫𝐢𝐝 𝐯𝐬 𝐌𝐮𝐥𝐭𝐢-𝐂𝐥𝐨𝐮𝐝](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013258239484010496-sptc/)  
-🎯[𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐩𝐫𝐨𝐯𝐢𝐝𝐞𝐝 𝐛𝐲 𝐯𝐚𝐫𝐢𝐨𝐮𝐬 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐏𝐫𝐨𝐯𝐢𝐝𝐞𝐫𝐬](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013614292818083841-RPqe/)
+🌈[𝐇𝐲𝐛𝐫𝐢𝐝 𝐯𝐬 𝐌𝐮𝐥𝐭𝐢-𝐂𝐥𝐨𝐮𝐝](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013258239484010496-sptc/)  
+🌈[𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐩𝐫𝐨𝐯𝐢𝐝𝐞𝐝 𝐛𝐲 𝐯𝐚𝐫𝐢𝐨𝐮𝐬 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐏𝐫𝐨𝐯𝐢𝐝𝐞𝐫𝐬](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013614292818083841-RPqe/)
   
  # Meetup
   
@@ -110,29 +107,28 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
   
 # Important Documents
   
-[𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐃𝐞𝐟𝐞𝐧𝐝𝐞𝐫 𝐀𝐠𝐚𝐢𝐧𝐬𝐭 𝐓𝐡𝐫𝐞𝐚𝐭𝐬 𝐖𝐞𝐛𝐢𝐧𝐚𝐫](http://bitly.ws/BvoE)
+ 💥 [Microsoft Defender Against Threats Webinar](http://bitly.ws/BvoE)
 
-[Microsoft Security knowledge](http://bitly.ws/Bvoe)
+ 💥[Microsoft Security knowledge](http://bitly.ws/Bvoe)
 
-[𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗶𝗻𝗴 𝗣𝗵𝗶𝘀𝗵𝗶𝗻𝗴-𝗥𝗲𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗠𝗙𝗔](http://bitly.ws/Bvpn)
+ 💥[Implementing Phishing -Resistant MFA](http://bitly.ws/Bvpn)
   
-[Benefits of Load Balancer is explained in the document](http://bitly.ws/BvpF)
+ 💥[Benefits of Load Balancer is explained in the document](http://bitly.ws/BvpF)
 
-[Azure Devops guide with practical’s](http://bitly.ws/BvpY)
+ 💥[Azure Devops guide with practical’s](http://bitly.ws/BvpY)
 
-[What is Zero Trust Architecture - by Sentinel One](http://bitly.ws/Bvq9)
+ 💥[What is Zero Trust Architecture - by Sentinel One](http://bitly.ws/Bvq9)
   
 # Important Repositories
 
 [GitHub repository with a list of Blue-teaming tools explained with usage](http://bitly.ws/Bvpv)
   
 # Interview Questions
-
-[HR and Managerial interview question and answers](http://bitly.ws/Bvpe)  
+🌹 [HR and Managerial interview question and answers](http://bitly.ws/Bvpe)  
   
 # Azure
   
-  [𝐑𝐨𝐚𝐝𝐦𝐚𝐩 𝐭𝐨 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/feed/update/urn:li:activity:7044396847657832448)
+ 🍁 [𝐑𝐨𝐚𝐝𝐦𝐚𝐩 𝐭𝐨 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/feed/update/urn:li:activity:7044396847657832448)
   
 
 
