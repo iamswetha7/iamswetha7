@@ -55,11 +55,11 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 
 # Terraform
-🚀 [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐏𝐎𝐂 𝐟𝐨𝐫 𝐄𝐂𝟐, 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐠𝐫𝐨𝐮𝐩 𝐜𝐫𝐞𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/swethamudunuri_connections-terraform-technology-activity-7011750739442028544-KNeJ/)
+🚀 [Terraform POC for EC2, security group creation](https://www.linkedin.com/posts/swethamudunuri_connections-terraform-technology-activity-7011750739442028544-KNeJ/)
 
-🚀 [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐕𝐏𝐂 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/swethamudunuri_vpn-aws-terraform-activity-7014170956168339456-X4mw/)
+🚀 [Terraform VPC Creation](https://www.linkedin.com/posts/swethamudunuri_vpn-aws-terraform-activity-7014170956168339456-X4mw/)
 
-🚀 [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬](https://www.linkedin.com/posts/swethamudunuri_aws-terraform-cloud-activity-7015783436657295360-ka1d/)
+🚀 [Terraform Variables](https://www.linkedin.com/posts/swethamudunuri_aws-terraform-cloud-activity-7015783436657295360-ka1d/)
 
 
 # Linux CTF
