@@ -63,15 +63,15 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 
 # Linux CTF
-👩🏾‍💻 [𝐃𝐚𝐲 𝟏 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-linuxchallenge-activity-7016114835184570368-AtV-/)
+👩🏾‍💻 [Day 1 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-linuxchallenge-activity-7016114835184570368-AtV-/)
 
-👩🏾‍💻 [𝐃𝐚𝐲 𝟐 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7016506893267312640-RQup/)
+👩🏾‍💻 [Day 2 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7016506893267312640-RQup/)
 
-👩🏾‍💻 [𝐃𝐚𝐲 𝟑 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7016897087543869440-Kl_o/)
+👩🏾‍💻 [Day 3 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7016897087543869440-Kl_o/)
 
-👩🏾‍💻 [𝐃𝐚𝐲 𝟒 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/feed/update/urn:li:activity:7017266138501795840/)
+👩🏾‍💻 [Day 4 of the 100-day Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7017266138501795840/)
 
-👩🏾‍💻 [𝐃𝐚𝐲 𝟓 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7017632000840720384-Pc5r/)
+👩🏾‍💻 [Day 5 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7017632000840720384-Pc5r/)
 
 # AWS
 
