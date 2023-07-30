@@ -75,17 +75,17 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 👩🏾‍💻 [Day 6 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7017983615590363136-IcDt?)
 
-👩🏾💻 [Day 7 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7018367079632232448-QAEE?)
+👩🏾‍💻 [Day 7 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7018367079632232448-QAEE?)
 
-👩🏾💻 [Day 8 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7018724944851189761--zkJ?)
+👩🏾‍💻 [Day 8 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7018724944851189761--zkJ?)
 
-👩🏾💻 [Day 9 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7019091579625689088-ozmv?)
+👩🏾‍💻 [Day 9 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7019091579625689088-ozmv?)
 
-👩🏾💻 [Day 10 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7019416166670422016-ofmu?)
+👩🏾‍💻 [Day 10 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7019416166670422016-ofmu?)
 
-👩🏾💻 [Day 11 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7019780808479506432-slAn?)
+👩🏾‍💻 [Day 11 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7019780808479506432-slAn?)
 
-👩🏾💻 [Day 12 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-cybertechdave100daysofcyberchallenge-activity-7020106507396509696-dIQR?)
+👩🏾‍💻 [Day 12 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-cybertechdave100daysofcyberchallenge-activity-7020106507396509696-dIQR?)
 
 # AWS
 
