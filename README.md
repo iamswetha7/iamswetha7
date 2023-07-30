@@ -73,7 +73,19 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 👩🏾‍💻 [Day 5 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7017632000840720384-Pc5r/)
 
-👩🏾‍💻[Day 6 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7017983615590363136-IcDt?)
+👩🏾‍💻 [Day 6 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7017983615590363136-IcDt?)
+
+👩🏾💻 [Day 7 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7018367079632232448-QAEE?)
+
+👩🏾💻 [Day 8 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7018724944851189761--zkJ?)
+
+👩🏾💻 [Day 9 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7019091579625689088-ozmv?)
+
+👩🏾💻 [Day 10 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7019416166670422016-ofmu?)
+
+👩🏾💻 [Day 11 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7019780808479506432-slAn?)
+
+👩🏾💻 [Day 12 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-cybertechdave100daysofcyberchallenge-activity-7020106507396509696-dIQR?)
 
 # AWS
 
@@ -133,7 +145,8 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
  💥[Azure Devops guide with practical’s](http://bitly.ws/BvpY)
 
  💥[What is Zero Trust Architecture - by Sentinel One](http://bitly.ws/Bvq9)
-  
+
+ 💥[Linux Commands](https://www.linkedin.com/feed/update/urn:li:activity:7020283433604030465?)
 # Important Repositories
 
 [GitHub repository with a list of Blue-teaming tools explained with usage](http://bitly.ws/Bvpv)
