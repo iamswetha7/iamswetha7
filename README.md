@@ -73,6 +73,8 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 👩🏾‍💻 [Day 5 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7017632000840720384-Pc5r/)
 
+👩🏾‍💻[Day 6 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7017983615590363136-IcDt?)
+
 # AWS
 
 🌈[Hybrid Vs Multi-Cloud](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013258239484010496-sptc/)  
