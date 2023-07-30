@@ -26,11 +26,11 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 <a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/youtube-cloudnloud-blue?style=flat-square&logo=youtube"></a>
 
   
-# 𝐌𝐲 𝐋𝐢𝐧𝐤𝐞𝐝𝐢𝐧 𝐉𝐨𝐮𝐫𝐧𝐞𝐲
+# My Linkedin Journey
   
 😍 [𝐌𝐲 𝟐𝟎𝟐𝟐 𝐒𝐭𝐨𝐫𝐲](https://www.linkedin.com/posts/swethamudunuri_journey-farewell-student-activity-7014979705866964994-BAVU)   
 
-# 𝐁𝐨𝐨𝐤 𝐑𝐞𝐯𝐢𝐞𝐰
+# Book Review
 [𝐆𝐫𝐚𝐭𝐢𝐭𝐮𝐝𝐞 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐲 𝐚𝐧𝐝 𝐚 𝐌𝐨𝐦𝐞𝐧𝐭 𝐨𝐟 𝐩𝐫𝐢𝐝𝐞](https://www.linkedin.com/feed/update/urn:li:activity:7042494455932678145/)
 
 # Security
