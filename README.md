@@ -1,4 +1,4 @@
-[About](https://tenor.com/view/cat-cute-happy-gif-19480992)
+![](https://github.com/swethamudunuri07/Gifs/blob/main/7IsD.gif)
 I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha Mudunuri😍**. 
 
 I was born in Bhimavaram, Andhra Pradesh, and completed my BTech in Information Technology at Shri Vishnu Engineering College for Women.
