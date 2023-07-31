@@ -1,4 +1,4 @@
-![](https://github.com/swethamudunuri07/Gifs/blob/main/7IsD.gif) <img src="https://github.com/swethamudunuri07/swethamudunuri07/blob/main/5k.jpg" width="500" height="400">
+![](https://github.com/swethamudunuri07/Gifs/blob/main/7IsD.gif) <img src="https://github.com/swethamudunuri07/swethamudunuri07/blob/main/5k.jpg" width="500" height="300">
 
 I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha Mudunuri😍**. 
 
