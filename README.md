@@ -1,4 +1,4 @@
-![](https://github.com/swethamudunuri07/Gifs/blob/main/7IsD.gif) ![](https://github.com/swethamudunuri07/Gifs/blob/main/7IsD.gif)
+![](https://github.com/swethamudunuri07/Gifs/blob/main/7IsD.gif) ![]([https://github.com/swethamudunuri07/Gifs/blob/main/7IsD.gif](https://github.com/swethamudunuri07/swethamudunuri07/blob/main/5k%20Followers%20(1).jpg))
 
 
 I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha Mudunuri😍**. 
