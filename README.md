@@ -157,6 +157,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 # Azure
   
  🍁 [𝐑𝐨𝐚𝐝𝐦𝐚𝐩 𝐭𝐨 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/feed/update/urn:li:activity:7044396847657832448)
+🍁 [Azure Front Door](https://www.linkedin.com/posts/swethamudunuri_azure-front-door-activity-7085250190445527040-g9pb?)
   
 
 
