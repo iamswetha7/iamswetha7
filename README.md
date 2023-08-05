@@ -1,4 +1,4 @@
-<img src="https://github.com/swethamudunuri07/Gifs/blob/main/bubududu-panda.gif" width ="300" height="300">   <img src ="https://github.com/swethamudunuri07/swethamudunuri07/blob/main/5k.jpg" width="600" height="400">
+<img src="https://github.com/swethamudunuri07/Gifs/blob/main/bubududu-panda.gif" width ="275" height="300">   <img src ="https://github.com/swethamudunuri07/swethamudunuri07/blob/main/5k.jpg" width="600" height="400">
 
 
 I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha Mudunuri😍**. 
