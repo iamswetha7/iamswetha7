@@ -29,7 +29,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
   
 ## My Linkedin Journey
   
-😍 [My 2022 Story](https://www.linkedin.com/posts/swethamudunuri_journey-farewell-student-activity-7014979705866964994-BAVU)   
+😍 [My 2022 Story](https://www.linkedin.com/posts/iamswetha7i_journey-farewell-student-activity-7014979705866964994-BAVU)   
 
 ## Book Review
 🏅[Gratitude for the Opportunity and a Moment of pride](https://www.linkedin.com/feed/update/urn:li:activity:7042494455932678145/)
