@@ -42,7 +42,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 🎀 [Day 35 of the 100-day Challenge-How to choose a Load-Balancing solution for your application?](http://bitly.ws/BvpM)
 
-# Cryptography
+### Cryptography
 
 🎆 [RSA Encryption](https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7010259804845662208-OqXA/)
 
@@ -53,7 +53,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 🎆 [About Digital Signatures](https://www.linkedin.com/posts/swethamudunuri_connections-security-technology-activity-7012047192567730176-qgvL/)
 
 
-# Terraform
+### Terraform
 🚀 [Terraform POC for EC2, security group creation](https://www.linkedin.com/posts/swethamudunuri_connections-terraform-technology-activity-7011750739442028544-KNeJ/)
 
 🚀 [Terraform VPC Creation](https://www.linkedin.com/posts/swethamudunuri_vpn-aws-terraform-activity-7014170956168339456-X4mw/)
@@ -61,7 +61,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 🚀 [Terraform Variables](https://www.linkedin.com/posts/swethamudunuri_aws-terraform-cloud-activity-7015783436657295360-ka1d/)
 
 
-# Linux CTF
+### Linux CTF
 👩🏾‍💻 [Day 1 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-linuxchallenge-activity-7016114835184570368-AtV-/)
 
 👩🏾‍💻 [Day 2 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-ctf-activity-7016506893267312640-RQup/)
@@ -86,13 +86,13 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 👩🏾‍💻 [Day 12 of the 100-day Challenge](https://www.linkedin.com/posts/swethamudunuri_cybertechdave100daysofcyberchallenge-cybertechdave100daysofcyberchallenge-activity-7020106507396509696-dIQR?)
 
-# AWS
+### AWS
 
 🌈[Hybrid Vs Multi-Cloud](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013258239484010496-sptc/)  
 
 🌈[Services provided by various Cloud service providers](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013614292818083841-RPqe/)
   
- ## Meetup
+### Meetup
   
 🎯[Glasgow Azure User Group Meetup](http://bitly.ws/Bvqj)
 
@@ -122,7 +122,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 🎯[Just One more day till the live meetup on Why Business Leaders Should Know Security?](http://bitly.ws/Bvo7)
 
-  # Cloudnloud Meetings
+  ### Cloudnloud Meetings
 
 👑 [Sunday Morning Brainstorming Meetup](https://www.linkedin.com/feed/update/urn:li:activity:7040603881713627136/)
 
@@ -131,7 +131,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 👑 [Teamwork](https://www.linkedin.com/feed/update/urn:li:activity:7040344172146409472/)
   
   
-# Important Documents
+### Important Documents
   
  💥 [Microsoft Defender Against Threats Webinar](http://bitly.ws/BvoE)
 
@@ -146,14 +146,14 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
  💥[What is Zero Trust Architecture - by Sentinel One](http://bitly.ws/Bvq9)
 
  💥[Linux Commands](https://www.linkedin.com/feed/update/urn:li:activity:7020283433604030465?)
-# Important Repositories
+### Important Repositories
 
 [GitHub repository with a list of Blue-teaming tools explained with usage](http://bitly.ws/Bvpv)
   
-# Interview Questions
+### Interview Questions
 🌹 [HR and Managerial interview question and answers](http://bitly.ws/Bvpe)  
   
-# Azure
+### Azure
 
 🍁 [Roadmap to Microsoft Certification](https://www.linkedin.com/feed/update/urn:li:activity:7044396847657832448)
  
