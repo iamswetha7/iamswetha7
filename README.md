@@ -16,7 +16,7 @@ The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open so
 At CloudnLoud Tech community, we are organizing free tech conferences, technical training, and technical discussions on various IT technologies & open-source tools. The goal of our Tech Community is to bring together companies, leaders, and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project.
 
 
-## 🤝🏻 Let's Keep in Touch
+### 🤝🏻 Let's Keep in Touch
 
 <a href="https://github.com/swethamudunuri07" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
