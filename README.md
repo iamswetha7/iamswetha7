@@ -42,7 +42,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 🎀 [Day 35 of the 100-day Challenge-How to choose a Load-Balancing solution for your application?](http://bitly.ws/BvpM)
 
-### Cryptography
+## Cryptography
 
 🎆 [RSA Encryption](https://www.linkedin.com/posts/swethamudunuri_connections-topic-security-activity-7010259804845662208-OqXA/)
 
