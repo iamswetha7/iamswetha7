@@ -3,7 +3,7 @@
 </p>
 
 
-I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha Mudunuri😍**. 
+I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha😍**. 
 I am enthusiastic about learning and I completed my master's degree in **CyberSecurity** at the **University of the West of Scotland (UWS)** in Scotland, **UK** 👩🏾‍💻.
 
 ### Technical Contributions ✍
