@@ -1,13 +1,9 @@
 <p align="center">
-
   <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
 </p>
 
 
 I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha Mudunuri😍**. 
-
-I was born in Bhimavaram, Andhra Pradesh, and completed my BTech in Information Technology at Shri Vishnu Engineering College for Women.
-I completed my Master's in 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 in 𝐈𝐫𝐞𝐥𝐚𝐧𝐝 and have 𝟏𝟒 𝐲𝐞𝐚𝐫𝐬 of experience in the IT industry.
 I am enthusiastic about learning and I completed my master's degree in MSc in **CyberSecurity** at the **University of the West of Scotland (UWS)** in Scotland, **UK** 👩🏾‍💻.
 
 ## Technical Contributions ✍
