@@ -20,10 +20,11 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
 <p align="left">
 <a href="https://cloudnloud.com/"><img alt="Website" src="https://img.shields.io/badge/Website-cloudnloud.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/swethamudunuri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SwethaMudunuri-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/swethamudunuri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Swetha Mudunuri-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/swetha_mudunuri"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Swetha_Mudunuri-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/youtube-cloudnloud-blue?style=flat-square&logo=youtube"></a>
-<a href="https://medium.com/@swethamudunuri"><img alt="Medium" src="https://img.shields.io/badge/medium-Swetha Mudunuri?style=flat-square&logo=youtube"></a>
+<a href="https://medium.com/@swethamudunuri"><img alt="Medium" src="https://img.shields.io/badge/medium-Swetha Mudunuri-blue?style=flat-square&logo=youtube"></a>
+<a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/yYoutube-Cloudnloud-blue?style=flat-square&logo=youtube"></a>
+
 
   
 ## My Linkedin Journey
