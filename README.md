@@ -21,7 +21,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 <p align="left">
 <a href="https://cloudnloud.com/"><img alt="Website" src="https://img.shields.io/badge/Website-cloudnloud.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/swethamudunuri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SwethaMudunuri-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/cloudnloud"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-Swetha Mudunuri-blue?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/cloudnloud"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-@Swetha_Mudunuri-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/youtube-cloudnloud-blue?style=flat-square&logo=youtube"></a>
 
   
