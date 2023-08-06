@@ -21,7 +21,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 <p align="left">
 <a href="https://cloudnloud.com/"><img alt="Website" src="https://img.shields.io/badge/Website-cloudnloud.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/swethamudunuri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SwethaMudunuri-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/cloudnloud"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-@Swetha_Mudunuri-blue?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/cloudnloud"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-Swetha_Mudunuri-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/youtube-cloudnloud-blue?style=flat-square&logo=youtube"></a>
 
   
@@ -94,41 +94,41 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
   
  # Meetup
   
-🎯[𝐆𝐥𝐚𝐬𝐠𝐨𝐰 𝐀𝐳𝐮𝐫𝐞 𝐔𝐬𝐞𝐫 𝐆𝐫𝐨𝐮𝐩 𝐌𝐞𝐞𝐭𝐮𝐩](http://bitly.ws/Bvqj)
+🎯[Glasgow Azure User Group Meetup](http://bitly.ws/Bvqj)
 
-🎯[𝐖𝐨𝐦𝐞𝐧 𝐢𝐧 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐋𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩 𝐖𝐞𝐛𝐢𝐧𝐚𝐫](http://bitly.ws/BuZx)
+🎯[Women in Cybersecurity Leadership Webinar](http://bitly.ws/BuZx)
 
-🎯 [𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐲](http://bitly.ws/Bvnv)
+🎯 [Thank you for the Opportunity](http://bitly.ws/Bvnv)
 
-🎯[𝐇𝐚𝐩𝐩𝐲 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐖𝐨𝐦𝐞𝐧'𝐬 𝐝𝐚𝐲](http://bitly.ws/Bvo3)
+🎯[Happy International Women's day](http://bitly.ws/Bvo3)
 
-🎯[𝐓𝐡𝐞 𝐰𝐚𝐢𝐭 𝐢𝐬 𝐨𝐯𝐞𝐫! 𝐟𝐨𝐫 𝐚 𝐯𝐢𝐫𝐭𝐮𝐚𝐥 𝐦𝐞𝐞𝐭𝐢𝐧𝐠 𝐨𝐧 𝐖𝐡𝐲 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐋𝐞𝐚𝐝𝐞𝐫𝐬 𝐒𝐡𝐨𝐮𝐥𝐝 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲?](http://bitly.ws/Bvo6)
+🎯[The wait is over! for a virtual meeting on Why Business Leaders Should Understand Security?](http://bitly.ws/Bvo6)
 
-🎯[𝐉𝐮𝐬𝐭 𝐎𝐧𝐞 𝐦𝐨𝐫𝐞 𝐝𝐚𝐲 𝐭𝐢𝐥𝐥 𝐭𝐡𝐞 𝐥𝐢𝐯𝐞 𝐦𝐞𝐞𝐭𝐮𝐩 𝐨𝐧 𝐖𝐡𝐲 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐋𝐞𝐚𝐝𝐞𝐫𝐬 𝐒𝐡𝐨𝐮𝐥𝐝 𝐊𝐧𝐨𝐰 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲?](http://bitly.ws/Bvo7)
+🎯[Just One more day till the live meetup on Why Business Leaders Should Know Security?](http://bitly.ws/Bvo7)
  
 🎯[About Cyberfit Women Meetup](http://bitly.ws/BvoL)
 
-🎯[𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐚𝐭 𝐃𝐞𝐥𝐨𝐢𝐭𝐭𝐞 𝐄𝐯𝐞𝐧𝐭](http://bitly.ws/BvoT)
+🎯[Exploring Technology at Deloitte Event](http://bitly.ws/BvoT)
 
-🎯[𝐌𝐞𝐞𝐭𝐮𝐩](http://bitly.ws/Bvp3)
+🎯[Meetup](http://bitly.ws/Bvp3)
 
-🎯[𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐥𝐢𝐚𝐧𝐜𝐞 𝐟𝐨𝐫 𝐏𝐫𝐨𝐣𝐞𝐜𝐭, 𝐏𝐫𝐨𝐠𝐫𝐚𝐦, 𝐚𝐧𝐝 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐲 𝐋𝐞𝐚𝐝𝐞𝐫𝐬? Book](http://bitly.ws/Bvop)
+🎯[Security and Compliance for Project, Program, and Delivery Leaders? Book](http://bitly.ws/Bvop)
 
-🎯[Join us for an upcoming live meetup on 𝐖𝐡𝐲 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐋𝐞𝐚𝐝𝐞𝐫𝐬 𝐒𝐡𝐨𝐮𝐥𝐝 𝐊𝐧𝐨𝐰 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲?](http://bitly.ws/Bvon)
+🎯[Join us for an upcoming live meetup on Why Business Leaders Should Know Security?](http://bitly.ws/Bvon)
 
 🎯[About the Virtual Meetup](http://bitly.ws/Bvov)
 
-🎯[𝐃𝐚𝐲 𝟑𝟓 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 CyberScotland Week 𝐖𝐞𝐛𝐢𝐧𝐚𝐫](http://bitly.ws/Bvp9)
+🎯[Day 35 of the 100-day Challenge CyberScotland Week Webinar](http://bitly.ws/Bvp9)
 
-🎯[𝐃𝐚𝐲 𝟑𝟒 𝐨𝐟 𝐭𝐡𝐞 𝟏𝟎𝟎-𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠e 𝐆𝐥𝐚𝐬𝐠𝐨𝐰 𝐀𝐳𝐮𝐫𝐞 𝐔𝐬𝐞𝐫 𝐆𝐫𝐨𝐮𝐩 𝐌𝐞𝐞𝐭𝐮𝐩](http://bitly.ws/Bvqj)
+🎯[Day 34 of the 100-day Challenge Glasgow Azure User Group Meetup](http://bitly.ws/Bvqj)
 
   # Cloudnloud Meetings
 
-👑 [𝐒𝐮𝐧𝐝𝐚𝐲 𝐌𝐨𝐫𝐧𝐢𝐧𝐠 𝐁𝐫𝐚𝐢𝐧𝐬𝐭𝐨𝐫𝐦𝐢𝐧𝐠 𝐌𝐞𝐞𝐭𝐮𝐩](https://www.linkedin.com/feed/update/urn:li:activity:7040603881713627136/)
+👑 [Sunday Morning Brainstorming Meetup](https://www.linkedin.com/feed/update/urn:li:activity:7040603881713627136/)
 
-👑 [𝐖𝐞𝐞𝐤𝐞𝐧𝐝 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐫𝐚𝐢𝐧𝐬𝐭𝐨𝐫𝐦𝐢𝐧𝐠 𝐖𝐞𝐛𝐢𝐧𝐚𝐫](https://www.linkedin.com/feed/update/urn:li:activity:7040336212447944704/)
+👑 [Weekend Community Brainstorming Webinar](https://www.linkedin.com/feed/update/urn:li:activity:7040336212447944704/)
 
-👑 [𝐓𝐞𝐚𝐦𝐰𝐨𝐫𝐤](https://www.linkedin.com/feed/update/urn:li:activity:7040344172146409472/)
+👑 [Teamwork](https://www.linkedin.com/feed/update/urn:li:activity:7040344172146409472/)
   
   
 # Important Documents
@@ -155,7 +155,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
   
 # Azure
 
-🍁 [𝐑𝐨𝐚𝐝𝐦𝐚𝐩 𝐭𝐨 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/feed/update/urn:li:activity:7044396847657832448)
+🍁 [Roadmap to Microsoft Certification](https://www.linkedin.com/feed/update/urn:li:activity:7044396847657832448)
  
 🍁 [Azure Front Door](https://www.linkedin.com/posts/swethamudunuri_azure-front-door-activity-7085250190445527040-g9pb?)
   
