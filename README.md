@@ -6,8 +6,8 @@
 I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha Mudunuri😍**. 
 I am enthusiastic about learning and I completed my master's degree in MSc in **CyberSecurity** at the **University of the West of Scotland (UWS)** in Scotland, **UK** 👩🏾‍💻.
 
-## Technical Contributions ✍
-## ROLE: Core Team Member -Azure Security Community Leader
+# Technical Contributions ✍
+# ROLE: Core Team Member -Azure Security Community Leader
 
 Learning new technologies excites me because it makes me happy, excited, and confident😎. I'm happy to be a member of the 𝐂𝐥𝐨𝐮𝐝𝐋𝐨𝐮𝐝 𝐂𝐨𝐫𝐞 𝐓𝐞𝐚𝐦, which constantly aspires to master the latest technologies and aids others in developing their careers ❤️.
 
