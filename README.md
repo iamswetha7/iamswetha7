@@ -92,7 +92,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 🌈[Services provided by various Cloud service providers](https://www.linkedin.com/posts/swethamudunuri_cloudcomputing-technology-cloud-activity-7013614292818083841-RPqe/)
   
- # Meetup
+ ## Meetup
   
 🎯[Glasgow Azure User Group Meetup](http://bitly.ws/Bvqj)
 
@@ -102,25 +102,25 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 🎯[Happy International Women's day](http://bitly.ws/Bvo3)
 
-🎯[The wait is over! for a virtual meeting on Why Business Leaders Should Understand Security?](http://bitly.ws/Bvo6)
-
-🎯[Just One more day till the live meetup on Why Business Leaders Should Know Security?](http://bitly.ws/Bvo7)
- 
 🎯[About Cyberfit Women Meetup](http://bitly.ws/BvoL)
 
 🎯[Exploring Technology at Deloitte Event](http://bitly.ws/BvoT)
 
 🎯[Meetup](http://bitly.ws/Bvp3)
 
+🎯[About the Virtual Meetup](http://bitly.ws/Bvov)
+
 🎯[Security and Compliance for Project, Program, and Delivery Leaders? Book](http://bitly.ws/Bvop)
 
 🎯[Join us for an upcoming live meetup on Why Business Leaders Should Know Security?](http://bitly.ws/Bvon)
 
-🎯[About the Virtual Meetup](http://bitly.ws/Bvov)
-
 🎯[Day 35 of the 100-day Challenge CyberScotland Week Webinar](http://bitly.ws/Bvp9)
 
 🎯[Day 34 of the 100-day Challenge Glasgow Azure User Group Meetup](http://bitly.ws/Bvqj)
+
+🎯[The wait is over! for a virtual meeting on Why Business Leaders Should Understand Security?](http://bitly.ws/Bvo6)
+
+🎯[Just One more day till the live meetup on Why Business Leaders Should Know Security?](http://bitly.ws/Bvo7)
 
   # Cloudnloud Meetings
 
