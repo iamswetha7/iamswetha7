@@ -11,7 +11,7 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
 ### Technical Contributions ✍
 
 
-### ROLE: Core Team Member -Azure Security Community Leader
+### ROLE: Core Team Member -Security Community Leader
 
 I'm Security Leader in the Cloudnloud Community in the UK. I bring the ability to host events, conferences and effectively mentor individuals ❤️. The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open source tech community, volunteer-run event. CloudnLoud is started with the aim to help cancer children 👦 who are not able to afford the treatment cost 💰. We are doing this for a good cause to save millions of Cancer children's life 👧.
 
