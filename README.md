@@ -6,7 +6,7 @@
 I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha😍**. 
 I'm an avid advocate for Cybersecurity and Cloud technologies, with a strong focus on Azure and Microsoft 365 Security. My expertise as a digital safeguarding architect is fortified by a Master's degree in **Cyber Security** and **Cloud Computing**.👩🏾‍💻
 
-Beyond mere code, I'm an active participant in tech circles. A sought-after speaker at meetups and conferences, I've had the privilege of sharing insights on cutting-edge technologies and best practices. My commitment to knowledge dissemination is showcased through my detailed technical discourse, offering profound insights into diverse cybersecurity and cloud-related subjects.
+I'm an active participant in tech circles. A sought-after speaker at meetups and host webinars, I've had the privilege of sharing insights on cutting-edge technologies and best practices. My commitment to knowledge dissemination is showcased through my detailed technical discourse, offering profound insights into diverse cybersecurity and cloud-related subjects.
 
 ### Technical Contributions ✍
 
