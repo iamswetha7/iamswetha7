@@ -4,14 +4,19 @@
 
 
 I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha😍**. 
-I am enthusiastic about learning and I completed my master's degree in **CyberSecurity** at the **University of the West of Scotland (UWS)** in Scotland, **UK** 👩🏾‍💻.
+I'm an avid advocate for Cybersecurity and Cloud technologies, with a strong focus on Azure and Microsoft 365 Security. My expertise as a digital safeguarding architect is fortified by a Master's degree in **Cyber Security** and **Cloud Computing**.👩🏾‍💻
+
+Beyond mere code, I'm an active participant in tech circles. A sought-after speaker at meetups and conferences, I've had the privilege of sharing insights on cutting-edge technologies and best practices. My commitment to knowledge dissemination is showcased through my detailed technical discourse, offering profound insights into diverse cybersecurity and cloud-related subjects.
 
 ### Technical Contributions ✍
+
+
 ### ROLE: Core Team Member -Azure Security Community Leader
 
 I'm Security Leader in the Cloudnloud Community in the UK. I bring the ability to host events, conferences and effectively mentor individuals ❤️. The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open source tech community, volunteer-run event. CloudnLoud is started with the aim to help cancer children 👦 who are not able to afford the treatment cost 💰. We are doing this for a good cause to save millions of Cancer children's life 👧.
 
-At CloudnLoud Tech community, we are organizing free tech conferences, technical training, and technical discussions on various IT technologies & open-source tools. The goal of our Tech Community is to bring together companies, leaders, and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project.
+### ROLE: CyberGirls Fellowship Mentor
+🚀 Embracing my passion for cybersecurity, I've taken on a role that extends beyond technical expertise. As a mentor, I'm deeply committed to empowering women who aspire to enter the world of cybersecurity. Guiding and supporting those on their journey to kickstart their careers brings me immense fulfillment. ❤️
 
 
 ## 🤝🏻 Let's Keep in Touch
