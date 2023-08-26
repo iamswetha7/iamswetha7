@@ -19,8 +19,10 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 ### ROLE: CyberGirls Fellowship Mentor
 🚀 Embracing my passion for cybersecurity, I've taken on a role that extends beyond technical expertise. As a mentor, I'm deeply committed to empowering women who aspire to enter the world of cybersecurity. Guiding and supporting those on their journey to kickstart their careers brings me immense fulfillment. ❤️
 
+
+
 ## TECHNICAL SKILLS 🚀
-• Azure - Azure Security Center, Azure Sentinel, Azure Policy, Azure Defender, AKS, IAM,  <br />
+• Azure - Azure Security Center, Azure Sentinel, Azure Policy, Azure Defender, AKS, IAM, Azure Active Directory, Azure Firewall, Azure DDoS Protection, Azure Key vault, Azure ATP, Azure WAF <br />
 • Network Analysis: Kali Linux, Metasploitable Framework, Tcpdump
 • Malware Analysis Tools: Process Explorer, Process Hacker, Pslist, VirusTotal, PeStudio, Cuckoo, Autostarts, Strings, netstat, TCPview, RamMap  <br />
 • Forensic tools: Autopsy, FTK Imager  <br />
@@ -39,8 +41,8 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 
 ## CloudNative SKILLS <img src="https://github.com/iamswetha7/Gifs/blob/main/cncf.png" height ="20" width="20"/>
 
-• Security  -  <br />
-• Azure Services <br/>
+• Security  -  Falco, Notary <br />
+• Azure Services AKS, Azure App Service, Logic Apps, Azure Functions<br/>
 • Orchestration & Management - Kubernetes
 
 
