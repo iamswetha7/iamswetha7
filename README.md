@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://github.com/iamswetha7/Gifs/blob/main/Swetha.gif" height="200" />
-   <img src="https://github.com/iamswetha7/Gifs/blob/main/bubududu-panda.gif" height="200" />
+   <img src="https://github.com/iamswetha7/Gifs/blob/main/5k.jpg" height="200" />
 </p>
 
-https://github.com/iamswetha7/Gifs/blob/main/bubududu-panda.gif
 
 I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha😍**. 
 I'm an avid advocate for Cybersecurity and Cloud technologies, with a strong focus on Azure and Microsoft 365 Security. My expertise as a digital safeguarding architect is fortified by a Master's degree in **Cyber Security** and **Cloud Computing**.👩🏾‍💻
