@@ -64,9 +64,9 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 
 
 <div style="display:flex;">
-  <img src="https://github.com/iamswetha7/Gifs/blob/main/Cybersafe.jpg" alt="Image 10" style="width:30%;">
-  <img src="https://github.com/iamswetha7/Gifs/blob/main/Qualys.jpg" alt="Image 11" style="width:30%;">
-  <img src="https://github.com/iamswetha7/Gifs/blob/main/Google.jpg" alt="Image 12" style="width:30%;">
+  <img src="https://github.com/iamswetha7/Gifs/blob/main/Cybersafe.jpg" alt="Image 10" style="width:30% height="200";">
+  <img src="https://github.com/iamswetha7/Gifs/blob/main/Qualys.jpg" alt="Image 11" style="width:30% height="200";">
+  <img src="https://github.com/iamswetha7/Gifs/blob/main/Google.jpg" alt="Image 12" style="width:30% height="200";">
   <img src="https://github.com/iamswetha7/Gifs/blob/main/Ack.jpg" alt="Image 12" style="width:30%;"> 
   <img src="https://github.com/iamswetha7/Gifs/blob/main/CEO.jpg" alt="Image 13" style="width:30%;">
   <img src="https://github.com/iamswetha7/Gifs/blob/main/Meetup.jpg" alt="Image 13" style="width:30%;">
