@@ -48,9 +48,6 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 
 ## 🤝🏻 Let's Keep in Touch
 
-<a href="https://github.com/iamswetha7" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
-<p align="left">
 <a href="https://cloudnloud.com/"><img alt="Website" src="https://img.shields.io/badge/Website-cloudnloud.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/iamswetha7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Swetha Mudunuri-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/iamswetha7"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Swetha_Mudunuri-blue?style=flat-square&logo=twitter"></a>
