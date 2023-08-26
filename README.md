@@ -196,8 +196,7 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 
 
   
-# Host and Meetup :)
-
+# "Navigating Roles as a Host, Mentor, and Speaker: Chronicles of My Experiences"
 <div style="display:flex;">
   <img src="https://github.com/iamswetha7/Gifs/blob/main/Host2.jpg" alt="Image 13" style="width:30%;">
   <img src="https://github.com/iamswetha7/Gifs/blob/main/host.jpg" alt="Image 13" style="width:30%;">
