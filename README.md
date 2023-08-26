@@ -20,8 +20,12 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 🚀 Embracing my passion for cybersecurity, I've taken on a role that extends beyond technical expertise. As a mentor, I'm deeply committed to empowering women who aspire to enter the world of cybersecurity. Guiding and supporting those on their journey to kickstart their careers brings me immense fulfillment. ❤️
 
 ## TECHNICAL SKILLS 🚀
-
-• Azure - Ec2, Aws Lambds, S3, EMR, CloudWatch, CloudFormation,Codepipeline <br />
+• Azure - Azure Security Center, Azure Sentinel, Azure Policy, Azure Defender, AKS, IAM,  <br />
+• Network Analysis: Kali Linux, Metasploitable Framework, Tcpdump
+• Malware Analysis Tools: Process Explorer, Process Hacker, Pslist, VirusTotal, PeStudio, Cuckoo, Autostarts, Strings, netstat, TCPview, RamMap  <br />
+• Forensic tools: Autopsy, FTK Imager  <br />
+• Compliance regulations: GDPR, HIPAA, ISO 27001  <br />
+• DevOps: GIT, Jenkins, Docker, Kubernetes  <br />
 • Programming : Python  <br />
 
 
@@ -53,9 +57,6 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 
 ## My TECHNICAL CONTRIBUTION -
   
-
-
-
 <div style="display:flex;">
   <img src="https://github.com/iamswetha7/Gifs/blob/main/Cybersafe.jpg" alt="Image 10" style="width:30%;">
   <img src="https://github.com/iamswetha7/Gifs/blob/main/Qualys.jpg" alt="Image 11" style="width:30%;">
