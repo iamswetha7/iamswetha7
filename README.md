@@ -31,19 +31,16 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 
 ## Non-TECHNICAL SKILLS 🚀
 
-• Database  <br />
-• Programming : Python  <br />
-• AWS - Ec2, Aws Lambds, S3, EMR, CloudWatch, CloudFormation,Codepipeline <br />
-• Big Data Frameworks <br />
-• Querying Tools - Hive, Pig <br />
-• Analytical Tools - PowerBi, Tableau <br /> 
-• Service Delivery<br /> 
+• Service Delivery Manager   <br />
+• Scrum Master/Team management  <br />
+• Project Management <br />
+• Mentoringig <br />
+• Coaching
 
-## CloudNative SKILLS <img src="https://github.com/abinayasv/abinayasv/assets/69671704/d093e348-a244-4505-a1b0-156c4be3bca3" height ="20" width="20"/>
+## CloudNative SKILLS <img src="https://github.com/iamswetha7/Gifs/blob/main/cncf.png" height ="20" width="20"/>
 
-• Database - Cassandra, Apache Hadoop , Mysql, MongoDB, Oracle <br />
-• Streaming and messaging- Kafka and spark <br />
-• AWS Services <br/>
+• Security  -  <br />
+• Azure Services <br/>
 • Orchestration & Management - Kubernetes
 
 
