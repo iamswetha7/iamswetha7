@@ -22,8 +22,8 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 
 
 ## TECHNICAL SKILLS 🚀
-• **Azure** - Azure Security Center, Azure Sentinel, Azure Policy, Azure Defender, AKS, IAM, Azure Active Directory, Azure Firewall, Azure DDoS Protection, Azure Key vault, Azure ATP, Azure WAF <br />
-• **Network Analysis**: Kali Linux, Metasploitable Framework, Tcpdump
+• **Azure** -Azure Sentinel, Azure Policy, Azure Defender, IAM, AAD, Azure Firewall, Azure DDoS Protection, Azure Key vault, Azure ATP, Azure WAF <br />
+• **Network Analysis**: Kali Linux, Metasploitable Framework, Tcpdump     
 • **Malware Analysis Tools**: Process Explorer, Process Hacker, Pslist, VirusTotal, PeStudio, Cuckoo, Autostarts, Strings, netstat, TCPview, RamMap  <br />
 • **Forensic Tools**: Autopsy, FTK Imager  <br />
 • **Compliance & Regulations**: GDPR, HIPAA, ISO 27001  <br />
@@ -36,7 +36,7 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 • Service Delivery Manager   <br />
 • Scrum Master/Team management  <br />
 • Project Management <br />
-• Mentoringig <br />
+• Mentoring <br />
 • Coaching
 
 ## CloudNative SKILLS <img src="https://github.com/iamswetha7/Gifs/blob/main/cncf.png" height ="20" width="20"/>
