@@ -46,7 +46,7 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 • Orchestration & Management - Kubernetes
 
 
-## 🤝🏻 Let's Keep in Touch
+## 🤝🏻 Stay Connected: Connect with Me and Our Community
 
 <a href="https://cloudnloud.com/"><img alt="Website" src="https://img.shields.io/badge/Website-cloudnloud.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/iamswetha7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Swetha Mudunuri-blue?style=flat-square&logo=linkedin"></a>
