@@ -22,13 +22,13 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 
 
 ## TECHNICAL SKILLS 🚀
-• Azure - Azure Security Center, Azure Sentinel, Azure Policy, Azure Defender, AKS, IAM, Azure Active Directory, Azure Firewall, Azure DDoS Protection, Azure Key vault, Azure ATP, Azure WAF <br />
-• Network Analysis: Kali Linux, Metasploitable Framework, Tcpdump
-• Malware Analysis Tools: Process Explorer, Process Hacker, Pslist, VirusTotal, PeStudio, Cuckoo, Autostarts, Strings, netstat, TCPview, RamMap  <br />
-• Forensic tools: Autopsy, FTK Imager  <br />
-• Compliance regulations: GDPR, HIPAA, ISO 27001  <br />
-• DevOps: GIT, Jenkins, Docker, Kubernetes  <br />
-• Programming : Python  <br />
+• **Azure** - Azure Security Center, Azure Sentinel, Azure Policy, Azure Defender, AKS, IAM, Azure Active Directory, Azure Firewall, Azure DDoS Protection, Azure Key vault, Azure ATP, Azure WAF <br />
+• **Network Analysis**: Kali Linux, Metasploitable Framework, Tcpdump
+• **Malware Analysis Tools**: Process Explorer, Process Hacker, Pslist, VirusTotal, PeStudio, Cuckoo, Autostarts, Strings, netstat, TCPview, RamMap  <br />
+• **Forensic Tools**: Autopsy, FTK Imager  <br />
+• **Compliance & Regulations**: GDPR, HIPAA, ISO 27001  <br />
+• **DevOps**: GIT, Jenkins, Docker, Kubernetes  <br />
+• **Programming**: Python  <br />
 
 
 ## Non-TECHNICAL SKILLS 🚀
@@ -41,9 +41,9 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 
 ## CloudNative SKILLS <img src="https://github.com/iamswetha7/Gifs/blob/main/cncf.png" height ="20" width="20"/>
 
-• Security  -  Falco, Notary <br />
-• Azure Services AKS, Azure App Service, Logic Apps, Azure Functions<br/>
-• Orchestration & Management - Kubernetes
+• **Security**-Falco, Notary <br />
+• **Azure Services**- AKS, Azure App Service, Logic Apps, Azure Functions<br/>
+• **Orchestration & Management** - Kubernetes
 
 
 ## 🤝🏻 Stay Connected: Connect with Me and Our Community
