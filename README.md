@@ -33,6 +33,7 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 
 ## Non-TECHNICAL SKILLS 🚀
 
+• Public Speaking
 • Service Delivery Manager   <br />
 • Scrum Master/Team management  <br />
 • Project Management <br />
@@ -56,7 +57,23 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 
 ## My TECHNICAL CONTRIBUTION -
 
+### Motivation
+- [Motivation - Story](https://www.linkedin.com/posts/iamswetha7_motivation-neverlosehope-learning-activity-7022630520278667264-CK7Y/)
+- [Motivation - 2022 Journey](https://www.linkedin.com/posts/iamswetha7_journey-farewell-student-activity-7014979705866964994-bXH9)
+- [Motivation - 2K-Milestone](https://www.linkedin.com/posts/iamswetha7_2k-sucess-learning-activity-7033716010452967425-wLQJ)
+- [Motivation - 5K-Milestone](https://www.linkedin.com/posts/iamswetha7_learnwithswetha-letslearntogether-5k-activity-7085951695955836929-cHA1)
+- [Motivation - Women's day ](https://www.linkedin.com/posts/iamswetha7_women-internationalwomensday-cloudnloud-activity-7039239321677111296-J1NR)
+- [Motivation - Embrace your Cyber Dreams](https://www.linkedin.com/posts/iamswetha7_learnwithswetha-cloudnloud-linkedin-activity-7101830356189736960-uQrG)
+- [Motivation - Fear of Real-Time Experience](https://www.linkedin.com/posts/iamswetha7_connections-cybersecurity-community-activity-7008866971433787393-YcNj)
 
+### Cryptography
+
+- [Cryptography - RSA Encryption](https://www.linkedin.com/posts/iamswetha7_connections-topic-security-activity-7010259804845662208-GMQm)
+- [Cryptography - Digital Signatures](https://www.linkedin.com/posts/iamswetha7_connections-security-technology-activity-7012047192567730176-Yk7y/)
+- [Cryptography - how the RSA algorithm works](https://www.linkedin.com/posts/iamswetha7_connections-topic-security-activity-7010644278527852544-MtYK
+)
+- [Cryptography - How do hash algorithms work](https://www.linkedin.com/posts/iamswetha7_connections-topic-security-activity-7011041583328337920-1ll4/
+)
 
 
 ## Navigating Roles as a Host, Mentor, and Speaker: Chronicles of My Experiences"
