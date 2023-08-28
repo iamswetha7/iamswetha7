@@ -33,12 +33,12 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 
 ## Non-TECHNICAL SKILLS 🚀
 
-• Public Speaking
-• Service Delivery Manager   <br />
-• Scrum Master/Team management  <br />
-• Project Management <br />
 • Mentoring <br />
-• Coaching
+• Coaching <br />
+• Public Speaking <br />
+• Project Management <br />
+• Hosting Virtual and Physical Events <br />
+
 
 ## CloudNative SKILLS <img src="https://github.com/iamswetha7/Gifs/blob/main/cncf.png" height ="20" width="20"/>
 
