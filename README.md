@@ -31,7 +31,7 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
 ## CloudNative SKILLS <img src="https://github.com/iamswetha7/Gifs/blob/main/cncf.png" height ="20" width="20"/>
 
 • **Security**-Falco, Notary <br />
-• **Azure Services**- AKS, Azure App Service, Logic Apps, Azure Functions<br/>
+• **Azure Services**- AKS, Azure App Service, Logic Apps, Azure Functions, Azure Sentinel<br/>
 • **Orchestration & Management** - Kubernetes
 
 
