@@ -101,9 +101,11 @@ I'm honored to be the Security Leader within the Cloudnloud Community based in t
 <img src=https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label= alt=meetup style="margin-bottom: 5px;" />
 </a>
 
-I am a part of Cloudnloud Cloud DevOps SRE Europe & UK Group's Community Core team, and I am also leading the Azure Security team.My role involves organizing tech talks and physical Azure meetups, as well as mentoring and actively empowering women who aspire to build careers in cybersecurity.At Cloudnloud Cloud DevOps SRE Europe & UK Group, our efforts revolve around arranging free tech sessions, delivering technical training, and engaging in discussions covering various IT technologies.
+I am a part of Cloudnloud Cloud DevOps SRE Europe & UK Group's Community Core team 🌍👥, and I am also leading the Azure Security team. My role involves organizing tech talks and physical Azure meetups 🗣️🚀, as well as mentoring and actively empowering women who aspire to build careers in cybersecurity. At Cloudnloud Cloud DevOps SRE Europe & UK Group, our efforts revolve around arranging free tech sessions 🛠️📚, delivering technical training 🧑‍🏫, and engaging in discussions covering various IT technologies 💻🔧.
 
-## Navigating Roles as a Host, Mentor, and Speaker: Chronicles of My Experiences"
+
+
+## Navigating Roles as a Host, Mentor, and Speaker: Chronicles of My Experiences🎤👩‍🏫🗣️
 <div style="display:flex;">
   <img src="https://github.com/iamswetha7/Gifs/blob/main/Cybersafe.jpg" alt="Image 10" style="width:30%;">
   <img src="https://github.com/iamswetha7/Gifs/blob/main/Qualys.jpg" alt="Image 11" style="width:30%;">
