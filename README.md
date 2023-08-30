@@ -5,18 +5,9 @@
 
 
 I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha😍**. 
-I'm an avid advocate for Cybersecurity and Cloud technologies, with a strong focus on Azure and Microsoft 365 Security. My expertise as a digital safeguarding architect is fortified by a Master's degree in **Cyber Security** and **Cloud Computing**.👩🏾‍💻
+As a seasoned Cybersecurity and Cloud Specialist with a focus on Microsoft 365 and Azure Security Architecture, I am committed to safeguarding digital landscapes and protecting sensitive data from cyber threats. With a Master's degree in **Cyber Security** and **Cloud Computing**.👩🏾‍💻, I possess a deep understanding of the latest security practices and technologies🌟.
 
-I'm an active participant in tech circles. A sought-after speaker at meetups and host webinars, I've had the privilege of sharing insights on cutting-edge technologies and best practices. My commitment to knowledge dissemination is showcased through my detailed technical discourse, offering profound insights into diverse cybersecurity and cloud-related subjects.
-
-### ROLE: Core Team Member -Security Community Leader
-
-I'm the Security Leader in the Cloudnloud Community in the UK. I bring the ability to host events, conferences, and effectively mentor individuals ❤️. The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open source tech community, volunteer-run event. CloudnLoud was started with the aim of helping cancer children 👦 who are not able to afford the treatment cost 💰. We are doing this for a good cause to save millions of Cancer children's lives 👧.
-
-### ROLE: CyberGirls Fellowship Mentor
-🚀 Embracing my passion for cybersecurity, I've taken on a role that extends beyond technical expertise. As a mentor, I'm deeply committed to empowering women who aspire to enter the world of cybersecurity. Guiding and supporting those on their journey to kickstart their careers brings me immense fulfillment. ❤️
-
-
+I'm an active participant in tech circles. A sought-after speaker at meetups and host webinars 🎙️, I've had the privilege of sharing insights on cutting-edge technologies and best practices. My commitment to knowledge dissemination is showcased through my detailed technical discourse, offering profound insights into diverse cybersecurity and cloud-related subjects 🚀.
 
 ## TECHNICAL SKILLS 🚀
 • **Azure** -Azure Sentinel, Azure Policy, Azure Defender, IAM, AAD, Azure Firewall, Azure DDoS Protection, Azure Key vault, Azure ATP, Azure WAF <br />
@@ -52,7 +43,7 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 <a href="https://medium.com/@iamswetha7"><img alt="Medium" src="https://img.shields.io/badge/Medium-Swetha Mudunuri-blue?style=flat-square&logo=youtube"></a>
 <a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Cloudnloud-blue?style=flat-square&logo=youtube"></a>
 
-## My TECHNICAL CONTRIBUTION ✍ -
+## My TECHNICAL CONTRIBUTION ✍ 
 
 ### Motivation
 - [Motivation - Story](https://www.linkedin.com/posts/iamswetha7_motivation-neverlosehope-learning-activity-7022630520278667264-CK7Y/)
@@ -92,17 +83,25 @@ I'm the Security Leader in the Cloudnloud Community in the UK. I bring the abili
 - [Cloud Computing- Shared Responsibility Model](https://www.linkedin.com/posts/iamswetha7_sharedresponsibility-azure-microsoft-activity-7023366306489896960-vE7A/)
 - [Cloud Computing- Most Commonly used Services](https://www.linkedin.com/posts/iamswetha7_cloudcomputing-technology-cloud-activity-7013614292818083841-Krai/)
 
-
-
-  
+ 
 ## Cybersecurity
 - [Cybersecurity- Career Advice ](https://www.linkedin.com/posts/iamswetha7_break-into-cyber-security-with-no-tech-experience-activity-7011792370497126400-xhBF/)
 
+## Volunteering
 
+### ROLE: Security Community Leader UK @Cloudloud Tech Community
 
+I'm honored to be the Security Leader within the Cloudnloud Community based in the UK👩‍💼🇬🇧. I bring the ability to host events, conferences, and effectively mentor individuals ❤️. The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open source tech community, volunteer-run event. CloudnLoud was started with the aim of helping cancer children 👦 who are not able to afford the treatment cost 💰. We are doing this for a good cause to save millions of Cancer children's lives 👧.
 
+### ROLE: CyberGirls Fellowship Mentor
+🚀 Embracing my passion for cybersecurity, I've taken on a role that extends beyond technical expertise. As a mentor, I'm deeply committed to empowering women who aspire to enter the world of cybersecurity. Guiding and supporting those on their journey to kickstart their careers brings me immense fulfillment. ❤️
 
+### ROLE: Community Leader / Co-organizer at CloudnLoud Cloud Devops SRE Europe & UK Group / Cloud Security Specialist 
+<a href="https://www.meetup.com/cloud-devops-sre-europe-uk/" target="_blank">
+<img src=https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label= alt=meetup style="margin-bottom: 5px;" />
+</a>
 
+I am a part of Cloudnloud Cloud DevOps SRE Europe & UK Group's Community Core team, and I am also leading the Azure Security team.My role involves organizing tech talks and physical Azure meetups, as well as mentoring and actively empowering women who aspire to build careers in cybersecurity.At Cloudnloud Cloud DevOps SRE Europe & UK Group, our efforts revolve around arranging free tech sessions, delivering technical training, and engaging in discussions covering various IT technologies.
 
 ## Navigating Roles as a Host, Mentor, and Speaker: Chronicles of My Experiences"
 <div style="display:flex;">
