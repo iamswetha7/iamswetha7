@@ -69,15 +69,6 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
 
 ## My TECHNICAL CONTRIBUTION ✍ 
 
-### Cryptography
-
-- [Cryptography - RSA Encryption](https://www.linkedin.com/posts/iamswetha7_connections-topic-security-activity-7010259804845662208-GMQm)
-- [Cryptography - Digital Signatures](https://www.linkedin.com/posts/iamswetha7_connections-security-technology-activity-7012047192567730176-Yk7y/)
-- [Cryptography - how the RSA algorithm works](https://www.linkedin.com/posts/iamswetha7_connections-topic-security-activity-7010644278527852544-MtYK
-)
-- [Cryptography - How do hash algorithms work](https://www.linkedin.com/posts/iamswetha7_connections-topic-security-activity-7011041583328337920-1ll4/
-)
-
 ## Infrastructure as a Code (IaaC)
 
 - [Terraform- Variables ](https://www.linkedin.com/posts/iamswetha7_aws-terraform-cloud-activity-7015783436657295360-qNpJ/)
