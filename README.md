@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/iamswetha7/Gifs/blob/main/Swetha.gif" height="200" />
-   <img src="https://github.com/iamswetha7/Gifs/blob/main/5k.jpg" height="200" />
-</p>
+  </p>
 
 
 I'm **[Nagaswetha Mudunuri](https://www.linkedin.com/in/swethamudunuri/)**  but I prefer to go by **Swetha😍**. 
