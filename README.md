@@ -31,11 +31,15 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
 
 ## 🤝🏻 Stay Connected: Connect with Me and Our Community
 
-<a href="https://cloudnloud.com/"><img alt="Website" src="https://img.shields.io/badge/Website-cloudnloud.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/iamswetha7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Swetha Mudunuri-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/iamswetha7"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Swetha_Mudunuri-blue?style=flat-square&logo=twitter"></a>
-<a href="https://medium.com/@iamswetha7"><img alt="Medium" src="https://img.shields.io/badge/Medium-Swetha Mudunuri-blue?style=flat-square&logo=youtube"></a>
-<a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Cloudnloud-blue?style=flat-square&logo=youtube"></a>
+## 🌐 Socials Platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamswetha7)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamswetha7)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamswetha7)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:swetha.mudunuri07@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CloudnLoud)
+
+</div>
 
 ## My TECHNICAL CONTRIBUTION ✍ 
 
