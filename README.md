@@ -9,17 +9,43 @@ As a seasoned Cybersecurity and Cloud Specialist with a focus on Microsoft 365 a
 I'm an active participant in tech circles. A sought-after speaker at meetups and host webinars 🎙️, I've had the privilege of sharing insights on cutting-edge technologies and best practices. My commitment to knowledge dissemination is showcased through my detailed technical discourse, offering profound insights into diverse cybersecurity and cloud-related subjects 🚀.
 
 ## TECHNICAL SKILLS 🚀
+<div align="center">
+
+## Cloud-Native Skills
+
+[![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%2315578B.svg?logo=Kali-Linux&logoColor=white)](https://www.kali.org/)
+[![Metasploitable Framework](https://img.shields.io/badge/Metasploitable%20Framework-%23E16722.svg?logo=Metasploit&logoColor=white)](https://www.metasploit.com/)
+[![Tcpdump](https://img.shields.io/badge/Tcpdump-%2331A8FF.svg?logo=Wireshark&logoColor=white)](https://www.tcpdump.org/)
+[![Process Explorer](https://img.shields.io/badge/Process%20Explorer-%233C589A.svg?logo=Microsoft&logoColor=white)](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+[![Process Hacker](https://img.shields.io/badge/Process%20Hacker-%23A44A3E.svg?logo=Process-Hacker&logoColor=white)](https://processhacker.sourceforge.io/)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-%23E96B56.svg?logo=VirusTotal&logoColor=white)](https://www.virustotal.com/)
+[![Autopsy](https://img.shields.io/badge/Autopsy-%23777BB4.svg?logo=Autopsy&logoColor=white)](https://www.sleuthkit.org/autopsy/)
+[![FTK Imager](https://img.shields.io/badge/FTK%20Imager-%23E15B64.svg?logo=AccessData&logoColor=white)](https://accessdata.com/products-services/forensic-toolkit-ftk)
+[![GDPR](https://img.shields.io/badge/GDPR-%231A73E8.svg)](https://gdpr.eu/)
+[![HIPAA](https://img.shields.io/badge/HIPAA-%234BA2DA.svg)](https://www.hhs.gov/hipaa/)
+[![ISO 27001](https://img.shields.io/badge/ISO%2027001-%23009CDE.svg)](https://www.iso.org/iso-27001-information-security.html)
+[![GIT](https://img.shields.io/badge/GIT-%23F05032.svg?logo=Git&logoColor=white)](https://git-scm.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=Jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=Docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white)](https://www.python.org/)
+
+</div>
 
 
 
+<div align="center">
 
 ## Non-TECHNICAL SKILLS 🚀
 
-• Mentoring <br />
-• Coaching <br />
-• Public Speaking <br />
-• Project Management <br />
-• Hosting Virtual and Physical Events <br />
+![Mentoring](https://img.shields.io/badge/Mentoring-%230097A7.svg?logoColor=white)
+![Coaching](https://img.shields.io/badge/Coaching-%23FF6F61.svg?logoColor=white)
+![Public Speaking](https://img.shields.io/badge/Public%20Speaking-%232D9FD9.svg?logoColor=white)
+![Project Management](https://img.shields.io/badge/Project%20Management-%2365B32E.svg?logoColor=white)
+![Hosting Events](https://img.shields.io/badge/Hosting%20Events-%23E97452.svg?logoColor=white)
+
+</div>
 
 
 ## CloudNative SKILLS <img src="https://github.com/iamswetha7/Gifs/blob/main/cncf.png" height ="20" width="20"/>
@@ -42,15 +68,6 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
 </div>
 
 ## My TECHNICAL CONTRIBUTION ✍ 
-
-### Motivation
-- [Motivation - Story](https://www.linkedin.com/posts/iamswetha7_motivation-neverlosehope-learning-activity-7022630520278667264-CK7Y/)
-- [Motivation - 2022 Journey](https://www.linkedin.com/posts/iamswetha7_journey-farewell-student-activity-7014979705866964994-bXH9)
-- [Motivation - 2K-Milestone](https://www.linkedin.com/posts/iamswetha7_2k-sucess-learning-activity-7033716010452967425-wLQJ)
-- [Motivation - 5K-Milestone](https://www.linkedin.com/posts/iamswetha7_learnwithswetha-letslearntogether-5k-activity-7085951695955836929-cHA1)
-- [Motivation - Women's day ](https://www.linkedin.com/posts/iamswetha7_women-internationalwomensday-cloudnloud-activity-7039239321677111296-J1NR)
-- [Motivation - Embrace your Cyber Dreams](https://www.linkedin.com/posts/iamswetha7_learnwithswetha-cloudnloud-linkedin-activity-7101830356189736960-uQrG)
-- [Motivation - Fear of Real-Time Experience](https://www.linkedin.com/posts/iamswetha7_connections-cybersecurity-community-activity-7008866971433787393-YcNj)
 
 ### Cryptography
 
