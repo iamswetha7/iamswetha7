@@ -8,10 +8,10 @@ As a seasoned Cybersecurity and Cloud Specialist with a focus on Microsoft 365 a
 
 I'm an active participant in tech circles. A sought-after speaker at meetups and host webinars 🎙️, I've had the privilege of sharing insights on cutting-edge technologies and best practices. My commitment to knowledge dissemination is showcased through my detailed technical discourse, offering profound insights into diverse cybersecurity and cloud-related subjects 🚀.
 
-## TECHNICAL SKILLS 🚀
+## MY TECH STACK 🚀
 <div align="center">
 
-## Cloud-Native Skills
+## TECHNICAL SKILLS
 
 [![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%2315578B.svg?logo=Kali-Linux&logoColor=white)](https://www.kali.org/)
@@ -48,11 +48,11 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
 </div>
 
 
-## CloudNative SKILLS <img src="https://github.com/iamswetha7/Gifs/blob/main/cncf.png" height ="20" width="20"/>
+## Cloud Native SKILLS <img src="https://github.com/iamswetha7/Gifs/blob/main/cncf.png" height ="20" width="20"/>
 
-• **Security**-Falco, Notary <br />
-• **Azure Services**- AKS, Azure App Service, Logic Apps, Azure Functions, Azure Sentinel<br/>
-• **Orchestration & Management** - Kubernetes
+- **Security**: [![Falco](https://img.shields.io/badge/Falco-%23323330.svg?logo=Falco&logoColor=white)](https://falco.org/) [![Notary](https://img.shields.io/badge/Notary-%232496ED.svg?logo=Notary&logoColor=white)](https://www.notaryproject.io/)
+- **Azure Services**: [![AKS](https://img.shields.io/badge/AKS-%230078D4.svg?logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/en-us/services/kubernetes-service/) [![Azure App Service](https://img.shields.io/badge/Azure_App_Service-%230078D4.svg?logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/en-us/services/app-service/) [![Logic Apps](https://img.shields.io/badge/Logic_Apps-%230078D4.svg?logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/en-us/services/logic-apps/) [![Azure Functions](https://img.shields.io/badge/Azure_Functions-%230078D4.svg?logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/en-us/services/functions/) [![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-%230078D4.svg?logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/en-us/services/azure-sentinel/)
+- **Orchestration & Management**: [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white)](https://kubernetes.io/)
 
 
 ## 🤝🏻 Stay Connected: Connect with Me and Our Community
@@ -68,30 +68,6 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
 </div>
 
 ## My TECHNICAL CONTRIBUTION ✍ 
-
-## Infrastructure as a Code (IaaC)
-
-- [Terraform- Variables ](https://www.linkedin.com/posts/iamswetha7_aws-terraform-cloud-activity-7015783436657295360-qNpJ/)
-- [Terraform- VPC creation ](https://www.linkedin.com/posts/iamswetha7_vpn-aws-terraform-activity-7014170956168339456-QtBX)
-- [Terraform- About Terraform ](https://www.linkedin.com/posts/iamswetha7_connections-terraform-technology-activity-7011750739442028544-6D63/)
-
-
-## Incident Response
-
-- [Incident Reponse- Data Breach Response Plan ](https://www.linkedin.com/posts/iamswetha7_connections-security-technology-activity-7012500195816951808-pwSi/)
-- [Incident Reponse- HR Data Breach Response plan](https://www.linkedin.com/posts/iamswetha7_connections-security-technology-activity-7012856727045816320-qzZu/)
-
-
-## Cloud Computing
-- [Cloud Computing- MFA](https://www.linkedin.com/posts/iamswetha7_microsoft-cloudnloud-security-activity-7024859949675479041-YPti/)
-- [Cloud Computing- Defense in Depth](https://www.linkedin.com/posts/iamswetha7_azure-microsoft-cloudnloud-activity-7023799345720217601--3X9)
-- [Cloud Computing- Public Vs Private Vs Hybrid](https://www.linkedin.com/posts/iamswetha7_cloudcomputing-technology-cloud-activity-7013258239484010496-yf6N/)
-- [Cloud Computing- Shared Responsibility Model](https://www.linkedin.com/posts/iamswetha7_sharedresponsibility-azure-microsoft-activity-7023366306489896960-vE7A/)
-- [Cloud Computing- Most Commonly used Services](https://www.linkedin.com/posts/iamswetha7_cloudcomputing-technology-cloud-activity-7013614292818083841-Krai/)
-
- 
-## Cybersecurity
-- [Cybersecurity- Career Advice ](https://www.linkedin.com/posts/iamswetha7_break-into-cyber-security-with-no-tech-experience-activity-7011792370497126400-xhBF/)
 
 ## Volunteering
 
