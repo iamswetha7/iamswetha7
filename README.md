@@ -9,13 +9,8 @@ As a seasoned Cybersecurity and Cloud Specialist with a focus on Microsoft 365 a
 I'm an active participant in tech circles. A sought-after speaker at meetups and host webinars 🎙️, I've had the privilege of sharing insights on cutting-edge technologies and best practices. My commitment to knowledge dissemination is showcased through my detailed technical discourse, offering profound insights into diverse cybersecurity and cloud-related subjects 🚀.
 
 ## TECHNICAL SKILLS 🚀
-• **Azure** -Azure Sentinel, Azure Policy, Azure Defender, IAM, AAD, Azure Firewall, Azure DDoS Protection, Azure Key vault, Azure ATP, Azure WAF <br />
-• **Network Analysis**: Kali Linux, Metasploitable Framework, Tcpdump     
-• **Malware Analysis Tools**: Process Explorer, Process Hacker, Pslist, VirusTotal, PeStudio, Cuckoo, Autostarts, Strings, netstat, TCPview, RamMap  <br />
-• **Forensic Tools**: Autopsy, FTK Imager  <br />
-• **Compliance & Regulations**: GDPR, HIPAA, ISO 27001  <br />
-• **DevOps**: GIT, Jenkins, Docker, Kubernetes  <br />
-• **Programming**: Python  <br />
+
+
 
 
 ## Non-TECHNICAL SKILLS 🚀
