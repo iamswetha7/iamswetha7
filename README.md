@@ -50,9 +50,79 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
 
 ## Cloud Native SKILLS <img src="https://github.com/iamswetha7/Gifs/blob/main/cncf.png" height ="20" width="20"/>
 
-- **Security**: [![Falco](https://img.shields.io/badge/Falco-%23323330.svg?logo=Falco&logoColor=white)](https://falco.org/) [![Notary](https://img.shields.io/badge/Notary-%232496ED.svg?logo=Notary&logoColor=white)](https://www.notaryproject.io/)
-- **Azure Services**: [![AKS](https://img.shields.io/badge/AKS-%230078D4.svg?logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/en-us/services/kubernetes-service/) [![Azure App Service](https://img.shields.io/badge/Azure_App_Service-%230078D4.svg?logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/en-us/services/app-service/) [![Logic Apps](https://img.shields.io/badge/Logic_Apps-%230078D4.svg?logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/en-us/services/logic-apps/) [![Azure Functions](https://img.shields.io/badge/Azure_Functions-%230078D4.svg?logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/en-us/services/functions/) [![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-%230078D4.svg?logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/en-us/services/azure-sentinel/)
-- **Orchestration & Management**: [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white)](https://kubernetes.io/)
+## Security Tools
+
+<div align="center">
+  <a href="https://falco.org/"><img src="https://img.shields.io/badge/Falco-%23323330.svg?logo=Falco&logoColor=white" alt="Falco"></a>
+  <a href="https://www.notaryproject.io/"><img src="https://img.shields.io/badge/Notary-%232496ED.svg?logo=Notary&logoColor=white" alt="Notary"></a>
+</div>
+
+## Azure Services
+
+<div align="center">
+  <a href="https://azure.microsoft.com/en-us/services/kubernetes-service/"><img src="https://img.shields.io/badge/AKS-%230078D4.svg?logo=Microsoft-Azure&logoColor=white" alt="AKS"></a>
+  <a href="https://azure.microsoft.com/en-us/services/app-service/"><img src="https://img.shields.io/badge/Azure_App_Service-%230078D4.svg?logo=Microsoft-Azure&logoColor=white" alt="Azure App Service"></a>
+  <a href="https://azure.microsoft.com/en-us/services/logic-apps/"><img src="https://img.shields.io/badge/Logic_Apps-%230078D4.svg?logo=Microsoft-Azure&logoColor=white" alt="Logic Apps"></a>
+  <a href="https://azure.microsoft.com/en-us/services/functions/"><img src="https://img.shields.io/badge/Azure_Functions-%230078D4.svg?logo=Microsoft-Azure&logoColor=white" alt="Azure Functions"></a>
+  <a href="https://azure.microsoft.com/en-us/services/azure-sentinel/"><img src="https://img.shields.io/badge/Azure_Sentinel-%230078D4.svg?logo=Microsoft-Azure&logoColor=white" alt="Azure Sentinel"></a>
+</div>
+
+## Orchestration & Management
+
+<div align="center">
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white" alt="Kubernetes"></a>
+</div>
+
+## Pentesting Tools
+
+<div align="center">
+  <a href="https://github.com/skylot/jadx"><img src="https://img.shields.io/badge/Bright-%23FF5733.svg" alt="Bright"></a>
+  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-%236633FF.svg" alt="Kali Linux"></a>
+  <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-%23FF3366.svg" alt="Metasploit"></a>
+  <a href="http://sqlmap.org/"><img src="https://img.shields.io/badge/Sqlmap-%2366FF33.svg" alt="Sqlmap"></a>
+  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-%23FF6633.svg" alt="Wireshark"></a>
+  <a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/OWASP_ZAP-%236633FF.svg" alt="OWASP ZAP"></a>
+  <a href="https://dradisframework.com/"><img src="https://img.shields.io/badge/Dradis-%23FF9933.svg" alt="Dradis"></a>
+  <a href="http://www.ettercap-project.org/"><img src="https://img.shields.io/badge/Ettercap-%2366FF33.svg" alt="Ettercap"></a>
+  <a href="http://www.hping.org/"><img src="https://img.shields.io/badge/Hping-%23FF3333.svg" alt="Hping"></a>
+  <a href="https://sqlninja.sourceforge.io/"><img src="https://img.shields.io/badge/Sqlninja-%236633FF.svg" alt="Sqlninja"></a>
+</div>
+
+## Dynamic Application Security Testing (DAST) Tools
+
+<div align="center">
+  <a href="https://github.com/skylot/jadx"><img src="https://img.shields.io/badge/Bright-%23FF5733.svg" alt="Bright"></a>
+  <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-%236633FF.svg" alt="GitLab"></a>
+  <a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/OWASP_ZAP-%23FF3366.svg" alt="OWASP ZAP"></a>
+</div>
+
+## Static Application Security Testing (SAST) Tools
+
+<div align="center">
+  <a href="https://lgtm.com/"><img src="https://img.shields.io/badge/LGTM-%23FF9933.svg" alt="LGTM"></a>
+  <a href="https://www.codacy.com/"><img src="https://img.shields.io/badge/Codacy-%23FF6633.svg" alt="Codacy"></a>
+</div>
+
+## Dashboard Tools
+
+<div align="center">
+  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-%23FF5733.svg" alt="Grafana"></a>
+  <a href="https://www.elastic.co/kibana"><img src="https://img.shields.io/badge/Kibana-%236633FF.svg" alt="Kibana"></a>
+</div>
+
+## Threat Modeling Tools
+
+<div align="center">
+  <a href="https://owasp.org/www-project-threat-dragon/"><img src="https://img.shields.io/badge/OWASP_Threat_Dragon-%23FF3333.svg" alt="OWASP Threat Dragon"></a>
+  <a href="https://threatmodeler.com/"><img src="https://img.shields.io/badge/ThreatModeler-%2366FF33.svg" alt="ThreatModeler"></a>
+</div>
+
+## Auditing Tools
+
+<div align="center">
+  <a href="https://docs.chef.io/inspec/"><img src="https://img.shields.io/badge/Chef_InSpec-%23FF9933.svg" alt="Chef InSpec"></a>
+  <a href="https://gauntlt.org/"><img src="https://img.shields.io/badge/Gauntlt-%23FF6633.svg" alt="Gauntlt"></a>
+</div>
 
 
 ## 🤝🏻 Stay Connected: Connect with Me and Our Community
