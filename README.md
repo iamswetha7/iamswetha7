@@ -50,16 +50,52 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
 
 ## Cloud Native SKILLS <img src="https://github.com/iamswetha7/Gifs/blob/main/cncf.png" height ="20" width="20"/>
 
-## Security Tools
+## <span style="color:#33FF66; text-align:left;">Security Tools</span>
 
-<div align="center">
+<div align="left">
   <a href="https://falco.org/"><img src="https://img.shields.io/badge/Falco-%23323330.svg?logo=Falco&logoColor=white" alt="Falco"></a>
   <a href="https://www.notaryproject.io/"><img src="https://img.shields.io/badge/Notary-%232496ED.svg?logo=Notary&logoColor=white" alt="Notary"></a>
 </div>
 
-## Azure Services
+## Dashboard Tools
 
-<div align="center">
+<div align="left">
+  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-%23FF5733.svg" alt="Grafana"></a>
+  <a href="https://www.elastic.co/kibana"><img src="https://img.shields.io/badge/Kibana-%236633FF.svg" alt="Kibana"></a>
+</div>
+
+## Static Application Security Testing (SAST) Tools
+
+<div align="left">
+  <a href="https://lgtm.com/"><img src="https://img.shields.io/badge/LGTM-%23FF9933.svg" alt="LGTM"></a>
+  <a href="https://www.codacy.com/"><img src="https://img.shields.io/badge/Codacy-%23FF6633.svg" alt="Codacy"></a>
+</div>
+
+## Auditing Tools
+
+<div align="left">
+  <a href="https://docs.chef.io/inspec/"><img src="https://img.shields.io/badge/Chef_InSpec-%23FF9933.svg" alt="Chef InSpec"></a>
+  <a href="https://gauntlt.org/"><img src="https://img.shields.io/badge/Gauntlt-%23FF6633.svg" alt="Gauntlt"></a>
+</div>
+
+## Dynamic Application Security Testing (DAST) Tools
+
+<div align="left">
+  <a href="https://github.com/skylot/jadx"><img src="https://img.shields.io/badge/Bright-%23FF5733.svg" alt="Bright"></a>
+  <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-%236633FF.svg" alt="GitLab"></a>
+  <a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/OWASP_ZAP-%23FF3366.svg" alt="OWASP ZAP"></a>
+</div>
+
+## Threat Modeling Tools
+
+<div align="left">
+  <a href="https://owasp.org/www-project-threat-dragon/"><img src="https://img.shields.io/badge/OWASP_Threat_Dragon-%23FF3333.svg" alt="OWASP Threat Dragon"></a>
+  <a href="https://threatmodeler.com/"><img src="https://img.shields.io/badge/ThreatModeler-%2366FF33.svg" alt="ThreatModeler"></a>
+</div>
+
+## <span style="color:#008BFF; text-align:left;">Azure Services</span>
+
+<div align="left">
   <a href="https://azure.microsoft.com/en-us/services/kubernetes-service/"><img src="https://img.shields.io/badge/AKS-%230078D4.svg?logo=Microsoft-Azure&logoColor=white" alt="AKS"></a>
   <a href="https://azure.microsoft.com/en-us/services/app-service/"><img src="https://img.shields.io/badge/Azure_App_Service-%230078D4.svg?logo=Microsoft-Azure&logoColor=white" alt="Azure App Service"></a>
   <a href="https://azure.microsoft.com/en-us/services/logic-apps/"><img src="https://img.shields.io/badge/Logic_Apps-%230078D4.svg?logo=Microsoft-Azure&logoColor=white" alt="Logic Apps"></a>
@@ -67,15 +103,9 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
   <a href="https://azure.microsoft.com/en-us/services/azure-sentinel/"><img src="https://img.shields.io/badge/Azure_Sentinel-%230078D4.svg?logo=Microsoft-Azure&logoColor=white" alt="Azure Sentinel"></a>
 </div>
 
-## Orchestration & Management
-
-<div align="center">
-  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white" alt="Kubernetes"></a>
-</div>
-
 ## Pentesting Tools
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/skylot/jadx"><img src="https://img.shields.io/badge/Bright-%23FF5733.svg" alt="Bright"></a>
   <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-%236633FF.svg" alt="Kali Linux"></a>
   <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-%23FF3366.svg" alt="Metasploit"></a>
@@ -87,43 +117,6 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
   <a href="http://www.hping.org/"><img src="https://img.shields.io/badge/Hping-%23FF3333.svg" alt="Hping"></a>
   <a href="https://sqlninja.sourceforge.io/"><img src="https://img.shields.io/badge/Sqlninja-%236633FF.svg" alt="Sqlninja"></a>
 </div>
-
-## Dynamic Application Security Testing (DAST) Tools
-
-<div align="center">
-  <a href="https://github.com/skylot/jadx"><img src="https://img.shields.io/badge/Bright-%23FF5733.svg" alt="Bright"></a>
-  <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-%236633FF.svg" alt="GitLab"></a>
-  <a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/OWASP_ZAP-%23FF3366.svg" alt="OWASP ZAP"></a>
-</div>
-
-## Static Application Security Testing (SAST) Tools
-
-<div align="center">
-  <a href="https://lgtm.com/"><img src="https://img.shields.io/badge/LGTM-%23FF9933.svg" alt="LGTM"></a>
-  <a href="https://www.codacy.com/"><img src="https://img.shields.io/badge/Codacy-%23FF6633.svg" alt="Codacy"></a>
-</div>
-
-## Dashboard Tools
-
-<div align="center">
-  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-%23FF5733.svg" alt="Grafana"></a>
-  <a href="https://www.elastic.co/kibana"><img src="https://img.shields.io/badge/Kibana-%236633FF.svg" alt="Kibana"></a>
-</div>
-
-## Threat Modeling Tools
-
-<div align="center">
-  <a href="https://owasp.org/www-project-threat-dragon/"><img src="https://img.shields.io/badge/OWASP_Threat_Dragon-%23FF3333.svg" alt="OWASP Threat Dragon"></a>
-  <a href="https://threatmodeler.com/"><img src="https://img.shields.io/badge/ThreatModeler-%2366FF33.svg" alt="ThreatModeler"></a>
-</div>
-
-## Auditing Tools
-
-<div align="center">
-  <a href="https://docs.chef.io/inspec/"><img src="https://img.shields.io/badge/Chef_InSpec-%23FF9933.svg" alt="Chef InSpec"></a>
-  <a href="https://gauntlt.org/"><img src="https://img.shields.io/badge/Gauntlt-%23FF6633.svg" alt="Gauntlt"></a>
-</div>
-
 
 ## 🤝🏻 Stay Connected: Connect with Me and Our Community
 
