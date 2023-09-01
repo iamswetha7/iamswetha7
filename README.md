@@ -9,7 +9,7 @@ As a seasoned Cybersecurity and Cloud Specialist with a focus on Microsoft 365 a
 I'm an active participant in tech circles. A sought-after speaker at meetups and host webinars 🎙️, I've had the privilege of sharing insights on cutting-edge technologies and best practices. My commitment to knowledge dissemination is showcased through my detailed technical discourse, offering profound insights into diverse cybersecurity and cloud-related subjects 🚀.
 
 ## MY TECH STACK 🚀
-<div align="center">
+<div align="left">
 
 ## TECHNICAL SKILLS
 
@@ -35,7 +35,7 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
 
 
 
-<div align="center">
+<div align="left">
 
 ## Non-TECHNICAL SKILLS 🚀
 
