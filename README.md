@@ -134,7 +134,7 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
 
 ## Volunteering
 
-### ROLE: Security Community Leader UK @Cloudloud Tech Community
+### ROLE: 🔒 Security Community Leader UK @Cloudnloud Tech Community 🔒
 
 I'm honored to be the Security Leader within the Cloudnloud Community based in the UK👩‍💼🇬🇧. I bring the ability to host events, conferences, and effectively mentor individuals ❤️. The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open source tech community, volunteer-run event. CloudnLoud was started with the aim of helping cancer children 👦 who are not able to afford the treatment cost 💰. We are doing this for a good cause to save millions of Cancer children's lives 👧.
 
@@ -147,6 +147,9 @@ I'm honored to be the Security Leader within the Cloudnloud Community based in t
 </a>
 
 I am a part of Cloudnloud Cloud DevOps SRE Europe & UK Group's Community Core team 🌍👥, and I am also leading the Azure Security team. My role involves organizing tech talks and physical Azure meetups 🗣️🚀, as well as mentoring and actively empowering women who aspire to build careers in cybersecurity. At Cloudnloud Cloud DevOps SRE Europe & UK Group, our efforts revolve around arranging free tech sessions 🛠️📚, delivering technical training 🧑‍🏫, and engaging in discussions covering various IT technologies 💻🔧.
+
+
+
 
 
 
