@@ -132,23 +132,45 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
 
 ## My TECHNICAL CONTRIBUTION ✍ 
 
-:white_check_mark:  **Meetup**  [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Meetup)
+# Achievement and Course Reviews 🏆
 
-:white_check_mark: **Cryptography**  [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Cryptography)
+Below is a list of my achievements and course reviews. I'm excited to share my experiences and reviews of books and courses related to technology and cybersecurity.
 
-:white_check_mark: **Medium-Blogs**   [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Medium-Blogs)
-
-
-:white_check_mark: **Linkedin-Posts**   [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Linkedin-Posts)
-
-:white_check_mark: **YouTube Videos**  [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Youtube-Videos)
-
-:white_check_mark: **Motivation Posts**   [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Motivational-Posts)
+| Type          | Title                                                                                                                     | Description                                                                                               |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| LinkedIn 📚   | [Book Review - Acknowledgement](https://www.linkedin.com/posts/iamswetha7_hello-connections-%3F%3F%3F-activity-7042494455932678145-xv1B)                | Read my LinkedIn post where I acknowledge an achievement or book review.                                |
+| LinkedIn 📖   | [Course Review - AWS Security](https://www.linkedin.com/posts/iamswetha7_security-services-in-aws-activity-7101168262834466816-1ZFD)                          | Check out my LinkedIn post where I review a course on AWS security services.                               |
 
 
+I'm passionate about technology, cybersecurity, and sharing my knowledge and experiences with the community. Here you'll find a variety of repositories that showcase my interests and contributions. Feel free to explore and engage with the content. 🚀
 
+## Repositories
 
+### Meetup 🤝 [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Meetup)
 
+In this repository, you'll find information and resources related to various meetups and events I've been a part of, including mentorship, hosting, and speaking engagements in the technology and cybersecurity space.
+
+### Cryptography 🔐 [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Cryptography)
+
+Explore my cryptography-related projects and experiments in this repository. Cryptography is a fascinating field, and here, you'll find code and resources related to cryptographic algorithms and concepts.
+
+### Medium-Blogs ✍️ [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Medium-Blogs)
+
+This repository contains the code and resources for my Medium blog articles. I cover a range of topics, including Azure, cloud computing, cybersecurity, and more. Feel free to check out my writing and share your thoughts.
+
+### Linkedin-Posts 📰 [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Linkedin-Posts)
+
+Here, you'll find my LinkedIn posts on various topics related to technology, cybersecurity, and career development. Join the discussions and connect with me on LinkedIn for more insights.
+
+### YouTube Videos 🎥 [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Youtube-Videos)
+
+This repository hosts links and information about my YouTube videos. I share sessions, talks, and discussions on cybersecurity, technology, and related subjects. Subscribe to my channel for the latest updates.
+
+### Motivational Posts 💪 [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Motivational-Posts)
+
+In this repository, you'll find motivational posts and content to inspire and uplift. We all need a dose of motivation, and I hope you find these posts encouraging and motivating.
+
+Thank you for visiting my GitHub profile! If you have any questions, ideas, or collaboration opportunities, feel free to reach out. Let's learn and grow together! 🌟
 
 
 ## Volunteering 😊🌍🤝
