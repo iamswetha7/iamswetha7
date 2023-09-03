@@ -138,7 +138,7 @@ Below is a list of my achievements and course reviews. I'm excited to share my e
 
 | Type          | Title                                                                                                                     | Description                                                                                               |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| LinkedIn 📚   | [Book Review - Acknowledgement](https://www.linkedin.com/posts/iamswetha7_hello-connections-%3F%3F%3F-activity-7042494455932678145-xv1B)                | Read my LinkedIn post where I acknowledge an achievement or book review.                                |
+| LinkedIn 📚   | [Book Review - Acknowledgement](https://www.linkedin.com/posts/iamswetha7_hello-connections-%3F%3F%3F-activity-7042494455932678145-xv1B)                | Read my LinkedIn post where I my name is updated in acknowledgements.                                |
 | LinkedIn 📖   | [Course Review - AWS Security](https://www.linkedin.com/posts/iamswetha7_security-services-in-aws-activity-7101168262834466816-1ZFD)                          | Check out my LinkedIn post where I review a course on AWS security services.                               |
 
 
