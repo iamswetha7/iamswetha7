@@ -132,6 +132,23 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
 
 ## My TECHNICAL CONTRIBUTION ✍ 
 
+:white_check_mark:  **Meetup**  [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Meetup)
+
+:white_check_mark: **Cryptography**  [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Cryptography)
+
+:white_check_mark: **Medium-Blogs**   [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Medium-Blogs)
+
+
+:white_check_mark: **Linkedin-Posts**   [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Linkedin-Posts)
+
+:white_check_mark: **Motivation Posts**   [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Motivational-Posts)
+
+:white_check_mark: **YouTube Videos**  [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Youtube-Videos)
+
+
+
+
+
 ## Volunteering
 
 ### ROLE: 🔒 Security Community Leader UK @Cloudnloud Tech Community 🔒
