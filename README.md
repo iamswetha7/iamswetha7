@@ -175,24 +175,8 @@ Thank you for visiting my GitHub profile! If you have any questions, ideas, or c
 
 ## Volunteering 😊🌍🤝
 
-### ROLE: 🔒 Security Community Leader UK @Cloudnloud Tech Community 🔒
-
-I'm honored to be the Security Leader within the Cloudnloud Community based in the UK👩‍💼🇬🇧. I bring the ability to host events, conferences, and effectively mentor individuals ❤️. The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open source tech community, volunteer-run event. CloudnLoud was started with the aim of helping cancer children 👦 who are not able to afford the treatment cost 💰. We are doing this for a good cause to save millions of Cancer children's lives 👧.
-
 ### ROLE: 👩‍💻 CyberGirls Fellowship Mentor 👩‍💻
 🚀 Embracing my passion for cybersecurity, I've taken on a role that extends beyond technical expertise. As a mentor, I'm deeply committed to empowering women who aspire to enter the world of cybersecurity. Guiding and supporting those on their journey to kickstart their careers brings me immense fulfillment. ❤️
-
-### ROLE: 🌟 Community Leader / Co-organizer at CloudnLoud Cloud DevOps SRE Europe & UK Group / ☁️ Cloud Security Specialist 🌟
-<a href="https://www.meetup.com/cloud-devops-sre-europe-uk/" target="_blank">
-<img src=https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label= alt=meetup style="margin-bottom: 5px;" />
-</a>
-
-I am a part of Cloudnloud Cloud DevOps SRE Europe & UK Group's Community Core team 🌍👥, and I am also leading the Azure Security team. My role involves organizing tech talks and physical Azure meetups 🗣️🚀, as well as mentoring and actively empowering women who aspire to build careers in cybersecurity. At Cloudnloud Cloud DevOps SRE Europe & UK Group, our efforts revolve around arranging free tech sessions 🛠️📚, delivering technical training 🧑‍🏫, and engaging in discussions covering various IT technologies 💻🔧.
-
-
-
-
-
 
 ## Navigating Roles as a Host, Mentor, and Speaker: Chronicles of My Experiences🎤👩‍🏫🗣️
 <div style="display:flex;">
