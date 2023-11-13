@@ -126,7 +126,7 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamswetha7)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamswetha7)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:swetha.mudunuri07@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CloudnLoud)
+
 
 </div>
 
@@ -146,10 +146,6 @@ I'm passionate about technology, cybersecurity, and sharing my knowledge and exp
 
 ## Repositories
 
-### Meetup 🤝 [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Meetup)
-
-In this repository, you'll find information and resources related to various meetups and events I've been a part of, including mentorship, hosting, and speaking engagements in the technology and cybersecurity space.
-
 ### Cryptography 🔐 [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Cryptography)
 
 Explore my cryptography-related projects and experiments in this repository. Cryptography is a fascinating field, and here, you'll find code and resources related to cryptographic algorithms and concepts.
@@ -161,10 +157,6 @@ This repository contains the code and resources for my Medium blog articles. I c
 ### Linkedin-Posts 📰 [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Linkedin-Posts)
 
 Here, you'll find my LinkedIn posts on various topics related to technology, cybersecurity, and career development. Join the discussions and connect with me on LinkedIn for more insights.
-
-### YouTube Videos 🎥 [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Youtube-Videos)
-
-This repository hosts links and information about my YouTube videos. I share sessions, talks, and discussions on cybersecurity, technology, and related subjects. Subscribe to my channel for the latest updates.
 
 ### Motivational Posts 💪 [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamswetha7/Motivational-Posts)
 
@@ -183,9 +175,7 @@ Thank you for visiting my GitHub profile! If you have any questions, ideas, or c
   <img src="https://github.com/iamswetha7/Gifs/blob/main/Cybersafe.jpg" alt="Image 10" style="width:30%;">
   <img src="https://github.com/iamswetha7/Gifs/blob/main/Qualys.jpg" alt="Image 11" style="width:30%;">
  <img src="https://github.com/iamswetha7/Gifs/blob/main/Ack.jpg" alt="Image 12" style="width:30%;"> 
-  <img src="https://github.com/iamswetha7/Gifs/blob/main/CEO.jpg" alt="Image 13" style="width:30%;">
-  <img src="https://github.com/iamswetha7/Gifs/blob/main/Meetup.jpg" alt="Image 13" style="width:30%;">
-   <img src="https://github.com/iamswetha7/Gifs/blob/main/Azure%20User%20group.jpg" alt="Image 13" style="width:30%;">
+ <img src="https://github.com/iamswetha7/Gifs/blob/main/Azure%20User%20group.jpg" alt="Image 13" style="width:30%;">
  </div>
 
 
