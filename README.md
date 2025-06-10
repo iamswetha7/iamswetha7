@@ -64,35 +64,6 @@ I'm an active participant in tech circles. A sought-after speaker at meetups and
   <a href="https://www.elastic.co/kibana"><img src="https://img.shields.io/badge/Kibana-%236633FF.svg" alt="Kibana"></a>
 </div>
 
-## Static Application Security Testing (SAST) Tools
-
-<div align="left">
-  <a href="https://lgtm.com/"><img src="https://img.shields.io/badge/LGTM-%23FF9933.svg" alt="LGTM"></a>
-  <a href="https://www.codacy.com/"><img src="https://img.shields.io/badge/Codacy-%23FF6633.svg" alt="Codacy"></a>
-</div>
-
-## Auditing Tools
-
-<div align="left">
-  <a href="https://docs.chef.io/inspec/"><img src="https://img.shields.io/badge/Chef_InSpec-%23FF9933.svg" alt="Chef InSpec"></a>
-  <a href="https://gauntlt.org/"><img src="https://img.shields.io/badge/Gauntlt-%23FF6633.svg" alt="Gauntlt"></a>
-</div>
-
-## Dynamic Application Security Testing (DAST) Tools
-
-<div align="left">
-  <a href="https://github.com/skylot/jadx"><img src="https://img.shields.io/badge/Bright-%23FF5733.svg" alt="Bright"></a>
-  <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-%236633FF.svg" alt="GitLab"></a>
-  <a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/OWASP_ZAP-%23FF3366.svg" alt="OWASP ZAP"></a>
-</div>
-
-## Threat Modeling Tools
-
-<div align="left">
-  <a href="https://owasp.org/www-project-threat-dragon/"><img src="https://img.shields.io/badge/OWASP_Threat_Dragon-%23FF3333.svg" alt="OWASP Threat Dragon"></a>
-  <a href="https://threatmodeler.com/"><img src="https://img.shields.io/badge/ThreatModeler-%2366FF33.svg" alt="ThreatModeler"></a>
-</div>
-
 ## <span style="color:#008BFF; text-align:left;">Azure Services</span>
 
 <div align="left">
